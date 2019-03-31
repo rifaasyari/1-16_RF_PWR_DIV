@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : 1-16_Power_Splitter.brd                       )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Mar 30 18:10:44 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro'
+Design Directory:            '.'
+Old design name:             'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/1-16_Power_Splitter.brd'
+New design name:             'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/1-16_Power_Splitter.brd'
+
+CmdLine: netrev -$ -i C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/#Taaaaab10752.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstchip.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxprt.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxnet.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 30 18:10:44 2019
+   DESIGN NAME : '1-16_POWER_SPLITTER'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:53
+elapsed time  0:00:00
+

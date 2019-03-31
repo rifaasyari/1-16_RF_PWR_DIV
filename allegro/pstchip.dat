@@ -1,0 +1,51 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Mar-30-2019 at 18:10:26}
+primitive 'POWER_DIVIDER_PWR_DIV_PD3150J50';
+  pin
+    'GND':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'IN':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'GND2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'OUT1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND3':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUT2':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Power_Divider';
+    JEDEC_TYPE='PWR_DIV';
+    VALUE='PD3150J5050S2HF';
+  end_body;
+end_primitive;
+primitive 'MICROWAVE_COAXIAL_CONNECTOR_CON';
+  pin
+    'INNER':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'OUTER2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OUTER1':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'OUTER3':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Microwave_Coaxial_Connector';
+    JEDEC_TYPE='Connector';
+    VALUE='MM5829-2700';
+  end_body;
+end_primitive;
+END.

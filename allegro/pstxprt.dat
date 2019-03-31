@@ -1,0 +1,330 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-30-2019 at 18:10:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='1-16_POWER_SPLITTER';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ IC1 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS632@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins632@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins632@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC10 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS848@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins848@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins848@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC11 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS800@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins800@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins800@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC12 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS680@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins680@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins680@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC13 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS567@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins567@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins567@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC14 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS752@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins752@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins752@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC15 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS776@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins776@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins776@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS728@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins728@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins728@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC3 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS543@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins543@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins543@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC4 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS519@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins519@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins519@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC5 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS824@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins824@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins824@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC6 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS872@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins872@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins872@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC7 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS591@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins591@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins591@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC8 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS656@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins656@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins656@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC9 'POWER_DIVIDER_PWR_DIV_PD3150J50':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS704@1-16_POWER_SPLITTER.POWER_DIVIDER.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins704@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins704@\1-16_power_splitter\.\power_divider.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3343@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3343@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3343@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3577@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3577@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3577@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3472@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3472@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3472@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3488@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3488@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3488@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3593@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3593@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3593@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3504@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3504@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3504@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3529@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3529@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3529@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3609@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3609@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3609@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3545@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3545@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3545@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS212@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins212@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins212@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3359@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3359@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3359@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3392@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3392@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3392@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3408@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3408@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3408@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3424@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3424@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3424@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3440@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3440@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3440@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3561@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3561@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3561@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'MICROWAVE_COAXIAL_CONNECTOR_CON':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3456@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3456@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3456@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

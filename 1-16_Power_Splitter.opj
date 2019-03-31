@@ -1,0 +1,122 @@
+(ExpressProject "1-16_Power_Splitter"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\1-16_power_splitter.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\1-16_power_splitter.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\1-16_POWER_SPLITTER.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 244"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1152 52 335")
+        (Scroll "-42 198")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.DSN")
+      (Schematic "1-16_Power_Splitter_Project")
+      (Page "1-16_Power_Splitter"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1204 104 387")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "182 0")
+        (Zoom "135"))
+      (Path
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
+      (Package "Power_Divider"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1126 26 309")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "768 56")
+        (Zoom "256"))
+      (Path
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
+      (Package "Microwave_Coaxial_Connector")))
+  (PartMRUSelector
+    (GND
+      (LibraryName
+         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Microwave_Coaxial_Connector
+      (FullPartName "Microwave_Coaxial_Connector.Normal")
+      (LibraryName
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
+      (DeviceIndex "0"))
+    (Power_Divider
+      (FullPartName "Power_Divider.Normal")
+      (LibraryName
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Raymond")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence_SPB_17.2-2016\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))
