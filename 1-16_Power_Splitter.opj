@@ -67,17 +67,6 @@
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 244"))
       (Tab 0))
     (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1152 52 335")
-        (Scroll "-42 198")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.DSN")
-      (Schematic "1-16_Power_Splitter_Project")
-      (Page "1-16_Power_Splitter"))
-    (Doc
       (Type "COrPartDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1204 104 387")
@@ -92,7 +81,7 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1126 26 309")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1126 26 309")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")

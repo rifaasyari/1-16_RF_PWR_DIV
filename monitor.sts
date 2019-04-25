@@ -1,0 +1,21 @@
+#Allegro PCB Router v17-2-50 made 2016/03/28 at 15:56:36
+#Host 
+#ROUTING STATUS <<< C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter\1-16_Power_Splitter.dsn >>>
+Start  Time: Report Time: Sun Mar 31 00:25:52 2019
+
+Nets         =       32   Connections         =      160
+Current Wire =      198   Reroute wires       =      198
+Completion   =  100.00%   Unconnections       =        0
+| ROUTING HISTORY ================================================================
+|     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+|   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+|----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+| Bus      |  0|     0|     0|  24|  126|    0|    0|   0|   |  0:00:00|  0:00:00|
+| Route    |  1|    11|     0|   0|    0|    0|    0|   0|  0|  0:00:00|  0:00:00|
+| Route    |  2|     3|     0|   0|    0|    6|    0|   0| 72|  0:00:00|  0:00:00|
+| Route    |  3|     0|     0|   0|    0|   10|    0|   0|100|  0:00:00|  0:00:00|
+| Clean    |  4|     0|     0|   0|    0|    2|    0|   0|   |  0:00:01|  0:00:01|
+| Clean    |  5|     0|     0|   0|    0|    2|    0|   0|   |  0:00:00|  0:00:01|
+| Clean    |  6|     0|     0|   0|    0|    2|    0|   0|   |  0:00:00|  0:00:01|
+| Clean    |  7|     0|     0|   0|    0|    2|    0|   0|   |  0:00:00|  0:00:01|
+| Conflicts between polygon wires and fixed objects:   0

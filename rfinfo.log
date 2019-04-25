@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RF Element Properties Info Display                               )
+(                                                                     )
+(    Drawing          : 1-16_Power_Splitter.brd                       )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Apr 25 00:52:29 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Current Library: ADS Compatible
+
+
+Total 1 RF Element(s).
+
+RF Components:
+
+Item 1:
+
+RefDes:	RFU14
+
+RF Element Type:	Microstrip Width Taper
+Pin 1 Net Attribute:	RFPINNET000014
+Pin 2 Net Attribute:	RFPINNET000013
+Layer:			TOP
+Ground:			BOTTOM
+Input Width:		15.750000 MILS
+Output Width:		30.000000 MILS
+Length:			15.000000 MILS
+Rotation Angle:		0.000000 Degrees
+Start point:		(3947.24 2900.0)
+Flipping Status:	Not Flipped
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ == == == == == == == == ==  == End of File == == == == == == == == ==  = 
