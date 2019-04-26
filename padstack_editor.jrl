@@ -1,6 +1,18 @@
-\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Thu Apr 25 15:06:57 2019
-\t (00:00:00)         Host=DESKTOP-0F6HLN1 User=Raymond Pid=13920 CPUs=4
-\t (00:00:00) CmdLine= padstack_editor -mpssession Raymond -file ./#Taaaabo17196.tmp -pname S_R40_50 -data C:/Users/Raymond/AppData/Local/Temp/#Taaaabq17196.tmp
+\t (00:00:00) padstack_editor 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Apr 26 11:58:55 2019
+\t (00:00:00)         Host=DARYA User=Harry.Lee Pid=9640 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master\s_r40_50.pad
 \t (00:00:00) 
-\t (00:00:01)     Journal end - Thu Apr 25 15:06:59 2019
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:04) QtSignal MainWindow Save triggered
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:00:08)     Journal end - Fri Apr 26 11:59:03 2019

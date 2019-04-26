@@ -1,9 +1,9 @@
-Thu Apr 25 15:27:31 2019				Page     1
+Fri Apr 26 12:45:37 2019				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Thu Apr 25 15:27:31 2019
+	Fri Apr 26 12:45:37 2019
 
 ------ Module Refresh Messages ------
 
@@ -18,18 +18,18 @@ SUMMARY:    Updated 0 out of 0 modules
 (    Refresh Symbol                                                   )
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
-(    Software Version : 17.2P019                                      )
-(    Date/Time        : Thu Apr 25 15:27:31 2019                      )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Fri Apr 26 12:45:37 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Thu Apr 25 15:27:31 2019				Page     1
+Fri Apr 26 12:45:37 2019				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/1-16_Power_Splitter.brd'
+Input design  = 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Raymond/AppData/Local/Temp/#Taaaaai16972.tmp'
+Symbol list file                       = 'C:/Users/Harry.Lee/AppData/Local/Temp/#Taaaaay10664.tmp'
 
 
 ------ Library Paths ------
@@ -50,17 +50,17 @@ PSMPATH =  .
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
-           C:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
 
 
 ------ Symbol Refresh Messages ------
