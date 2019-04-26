@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : pwr_div.dra                                   )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Fri Apr 26 15:19:18 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Apr 26 15:19:18 2019				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/pwr_div.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'PWR_DIV_PAD'  pad stack refresh starting.
+
+     'PWR_DIV_PAD'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

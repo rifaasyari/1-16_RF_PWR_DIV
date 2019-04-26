@@ -1,0 +1,103 @@
+\t (00:00:02) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 26 16:10:09 2019
+\t (00:00:02)         Host=DARYA User=Harry.Lee Pid=11548 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master\1-16_Power_Splitter.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:14) Opening existing design...
+\i (00:00:14) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
+\d (00:00:14) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd
+\t (00:00:14) Grids are drawn 52.0192, 52.0192 apart for enhanced viewability.
+\t (00:00:14) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:14) trapsize 849
+\i (00:00:14) trapsize 879
+\t (00:00:14) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:00:14) trapsize 895
+\i (00:00:14) trapsize 865
+\i (00:00:14) generaledit 
+\i (00:00:17) pick grid 36.0572 150.7427
+\t (00:00:17) last pick:  36.0680 150.7490
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 41.5786 150.5523
+\t (00:00:18) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:00:18) trapsize 1731
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 41.5095 147.8869
+\t (00:00:19) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:00:19) trapsize 3462
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 41.5094 147.8870
+\t (00:00:20) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
+\i (00:00:20) trapsize 6923
+\i (00:00:23) place manual 
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual done  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:04:22) xNet N01086 
+\i (00:04:22) xname_flush 
+\i (00:04:22) trapsize 37
+\i (00:04:25) xNet N01086 
+\i (00:04:25) xname_flush 
+\i (00:04:25) trapsize 37
+\i (00:04:31) xname_flush 
+\i (00:04:57) xNet N01086 
+\i (00:04:57) xname_flush 
+\i (00:04:57) trapsize 37
+\i (00:05:01) xname_flush 
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 78.5872 113.8100
+\i (00:07:35) trapsize 74
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 78.5872 113.8027
+\i (00:07:35) trapsize 148
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out 78.5872 113.8027
+\i (00:07:35) trapsize 296
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 78.5871 113.8027
+\t (00:07:36) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:07:36) trapsize 592
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 78.5871 113.8026
+\t (00:07:36) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:07:36) trapsize 1184
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 78.5871 113.8027
+\t (00:07:36) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:07:36) trapsize 2367
+\i (00:07:36) pick grid 90.2819 110.1569
+\t (00:07:36) last pick:  90.2716 110.1598
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 89.8557 110.2043
+\t (00:07:37) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:07:37) trapsize 4735
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 89.7611 110.2990
+\t (00:07:37) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
+\i (00:07:37) trapsize 9469
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 89.7611 100.1540
+\t (00:07:37) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
+\i (00:07:37) trapsize 13587
+\i (00:07:37) zoom out 1 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom out 135.2716 63.2608
+\i (00:07:37) trapsize 13587
+\i (00:07:38) save 
+\i (00:07:39) fillin yes 
+\i (00:07:39) generaledit 
+\i (00:07:40) exit 
+\t (00:07:40)     Journal end - Fri Apr 26 16:17:47 2019

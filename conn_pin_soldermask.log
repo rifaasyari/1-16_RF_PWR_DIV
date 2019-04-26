@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : connector_pin1.dra                            )
+(    Drawing          : conn_pin_soldermask.dra                       )
 (    Software Version : 17.2S047                                      )
-(    Date/Time        : Fri Apr 26 15:00:25 2019                      )
+(    Date/Time        : Fri Apr 26 14:53:52 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: SHAPE
     Directory = C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master
-    Name      = connector_pin1.ssm
+    Name      = conn_pin_soldermask.ssm
     User      = Harry.Lee
     Machine   = DARYA
 

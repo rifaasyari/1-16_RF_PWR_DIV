@@ -1,9 +1,9 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Mar-30-2019 at 18:10:26 }
+{ Using PSTWRITER 17.2.0 d001Apr-26-2019 at 16:37:25 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='1-16_POWER_SPLITTER';
- POST_TIME='Mar  2 2016 00:37:24';
+ POST_TIME='Aug 26 2018 15:46:21';
  SOURCE_TOOL='CAPTURE_WRITER';
 END_DIRECTIVES;
 
@@ -324,6 +324,156 @@ SECTION_NUMBER 1
  '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS3456@1-16_POWER_SPLITTER.MICROWAVE_COAXIAL_CONNECTOR.NORMAL(CHIPS)':
  C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins3456@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
  P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins3456@\1-16_power_splitter\.\microwave_coaxial_connector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS16419@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins16419@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins16419@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17952@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17952@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17952@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS18115@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins18115@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins18115@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS18184@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins18184@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins18184@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS18298@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins18298@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins18298@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS18458@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins18458@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins18458@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS18492@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins18492@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins18492@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS16781@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins16781@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins16781@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS16946@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins16946@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins16946@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17103@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17103@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17103@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17334@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17334@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17334@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17462@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17462@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17462@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17626@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17626@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17626@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17842@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17842@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17842@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R0603_100_R0603_100':;
+
+SECTION_NUMBER 1
+ '@1-16_POWER_SPLITTER.1-16_POWER_SPLITTER_PROJECT(SCH_1):INS17910@1-16_POWER_SPLITTER.R0603_100.NORMAL(CHIPS)':
+ C_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):ins17910@\1-16_power_splitter\.\r0603_100.normal\(chips)',
+ P_PATH='@\1-16_power_splitter\.\1-16_power_splitter_project\(sch_1):page1_ins17910@\1-16_power_splitter\.\r0603_100.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

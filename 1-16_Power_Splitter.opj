@@ -10,7 +10,6 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Board_sim_option "VHDL_flow")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
     (ANNOTATE_Action "0")
@@ -29,7 +28,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\ALLEGRO")
+       "C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -44,53 +43,47 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (Netlist_TAB "0"))
-  (Folder "Outputs"
-    (File ".\allegro\pstxnet.dat"
-      (Type "Report")
-      (DisplayName "pstxnet.dat"))
-    (File ".\allegro\pstxprt.dat"
-      (Type "Report")
-      (DisplayName "pstxprt.dat"))
-    (File ".\allegro\pstchip.dat"
-      (Type "Report")
-      (DisplayName "pstchip.dat")))
+    (Netlist_TAB "0")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\harry.lee\desktop\1-16_rf_pwr_div-master\1-16_power_splitter.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\harry.lee\desktop\1-16_rf_pwr_div-master\1-16_power_splitter.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 244"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 244"))
       (Tab 0))
     (Doc
-      (Type "COrPartDoc")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1204 104 387")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "182 0")
-        (Zoom "135"))
+        (Placement "44 0 1 -1 -1 -8 -31 539 1902 191 620")
+        (Scroll "-255 0")
+        (Zoom "83")
+        (Occurrence "/"))
       (Path
-         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
-      (Package "Power_Divider"))
-    (Doc
-      (Type "COrPartDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 26 1126 26 309")
-        (PackageScroll "0 0")
-        (PackageZoom "1")
-        (PartPackage "Part")
-        (Scroll "768 56")
-        (Zoom "256"))
-      (Path
-         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
-      (Package "Microwave_Coaxial_Connector")))
+         "C:\USERS\HARRY.LEE\DESKTOP\1-16_RF_PWR_DIV-MASTER\1-16_POWER_SPLITTER.DSN")
+      (Schematic "1-16_Power_Splitter_Project")
+      (Page "1-16_Power_Splitter")))
   (PartMRUSelector
+    (R0603_100
+      (FullPartName "R0603_100.Normal")
+      (LibraryName
+         "C:\USERS\HARRY.LEE\DESKTOP\1-16_RF_PWR_DIV-MASTER\1-16_POWER_SPLITTER.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OLDLIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -105,7 +98,7 @@
       (LibraryName
          "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "Raymond")
+  (MPSSessionName "Harry.Lee")
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\Cadence_SPB_17.2-2016\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

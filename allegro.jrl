@@ -1,949 +1,158 @@
-\t (00:00:04) allegro 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Fri Apr 26 12:48:58 2019
-\t (00:00:04)         Host=DARYA User=Harry.Lee Pid=10196 CPUs=8
-\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master\1-16_Power_Splitter.brd
-\t (00:00:04) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:16) Opening existing design...
-\i (00:00:16) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
-\d (00:00:16) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd
-\t (00:00:16) Grids are drawn 52.0192, 52.0192 apart for enhanced viewability.
-\t (00:00:16) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:00:16) trapsize 13661
-\i (00:00:16) trapsize 14327
-\i (00:00:16) trapsize 15060
-\i (00:00:16) trapsize 14327
-\t (00:00:16) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:00:16) trapsize 14327
-\i (00:00:16) trapsize 13587
-\i (00:00:16) generaledit 
-\i (00:00:20) color192 
-\i (00:00:21) generaledit 
-\i (00:00:26) QtSignal ColorVisibilityDialog CVDCancelButton clicked
-\i (00:00:28) artwork 
-\w (00:00:28) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:00:29) fillin confirm
-\i (00:00:30) setwindow form.film_control
-\i (00:00:30) FORM film_control film_control  
-\i (00:00:33) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:00:39) fillin "SILKSCREEN_TOP"
-\i (00:00:45) setwindow form.scl_browser
-\i (00:00:45) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
-\i (00:00:45) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
-\i (00:00:54) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'BOARD GEOMETRY' 
-\i (00:00:54) FORM scl_browser treelist  SILKSCREEN_TOP 'BOARD GEOMETRY' 
-\i (00:00:55) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:01:01) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:01:01) FORM scl_browser treelist  SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:01:01) FORM scl_browser done  
-\i (00:01:03) setwindow form.film_control
-\i (00:01:03) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom in 1 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom in 99.9456 84.4565
-\t (00:01:04) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:01:04) trapsize 6793
-\i (00:01:04) zoom in 1 
-\i (00:01:04) setwindow pcb
-\i (00:01:04) zoom in 99.9456 83.3696
-\t (00:01:04) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:01:04) trapsize 3397
-\i (00:01:05) zoom in 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom in 97.9076 92.6767
-\t (00:01:05) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
-\i (00:01:05) trapsize 1698
-\i (00:01:05) zoom in 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom in 97.9076 92.7107
-\t (00:01:05) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:01:05) trapsize 849
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 97.9076 92.4899
-\t (00:01:05) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
-\i (00:01:05) trapsize 1698
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 97.9415 92.4221
-\t (00:01:05) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:01:05) trapsize 3397
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 97.9415 92.2862
-\t (00:01:05) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:01:05) trapsize 6794
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 96.5484 92.0145
-\t (00:01:05) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:01:05) trapsize 13587
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 90.7065 115.9782
-\i (00:01:05) trapsize 13587
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 89.0760 116.5217
-\i (00:01:05) trapsize 13587
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 88.2608 116.5217
-\i (00:01:05) trapsize 13587
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 87.1738 116.7934
-\i (00:01:05) trapsize 13587
-\i (00:01:05) zoom out 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom out 87.1738 116.7934
-\i (00:01:05) trapsize 13587
-\i (00:01:06) zoom in 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom in 86.3586 116.7934
-\t (00:01:06) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:01:06) trapsize 6793
-\i (00:01:06) zoom in 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom in 86.3586 116.7934
-\t (00:01:06) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:01:06) trapsize 3397
-\i (00:01:06) zoom out 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom out 86.3587 116.7934
-\t (00:01:06) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:01:06) trapsize 6793
-\i (00:01:06) zoom out 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom out 86.3586 116.7935
-\t (00:01:06) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:01:06) trapsize 13587
-\i (00:01:08) setwindow form.film_control
-\i (00:01:08) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:10) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:11) FORM film_control filmtree popup Add 'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:13) setwindow form.scl_browser
-\i (00:01:13) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:01:13) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:01:14) FORM scl_browser done  
-\i (00:01:16) setwindow form.film_control
-\i (00:01:16) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:16) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:17) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:17) FORM film_control filmtree popup Cut 'BOARD GEOMETRY/SILKSCREEN_TOP' SILKSCREEN_TOP 
-\i (00:01:18) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:01:19) FORM film_control filmtree popup Cut SILKSCREEN_TOP 
-\i (00:01:21) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:01:26) fillin "SILKSCREEN_YOP"
-\i (00:01:27) setwindow form.scl_browser
-\i (00:01:27) FORM scl_browser cancel  
-\i (00:01:29) setwindow form.film_control
-\i (00:01:29) FORM film_control filmtree popup Cut SILKSCREEN_YOP 
-\i (00:01:30) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:01:36) fillin "SILKSCREEN_TOP"
-\i (00:01:38) setwindow form.scl_browser
-\i (00:01:38) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:01:38) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:01:39) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:01:46) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:01:46) FORM scl_browser treelist  SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:01:48) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
-\i (00:01:48) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
-\i (00:01:49) FORM scl_browser done  
-\i (00:01:50) setwindow form.film_control
-\i (00:01:50) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:01:51) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' 
-\i (00:01:51) FORM film_control filmtree  'REF DES/SILKSCREEN_TOP' 
-\i (00:01:53) FORM film_control filmtree  'PACKAGE GEOMETRY/SILKSCREEN_TOP' 
-\i (00:01:53) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:01:54) FORM film_control cancel  
-\i (00:01:54) setwindow pcb
-\i (00:01:54) generaledit 
-\i (00:01:56) artwork 
-\w (00:01:56) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:01:58) fillin confirm
-\i (00:01:58) setwindow form.film_control
-\i (00:01:58) FORM film_control film_control  
-\i (00:02:00) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:02:01) fillin "SDFSD"
-\i (00:02:03) setwindow form.scl_browser
-\i (00:02:03) FORM scl_browser treelist  TOP 'ANTI ETCH' 
-\i (00:02:03) FORM scl_browser treelist 'MULTISEL YES' BOTTOM 'ANTI ETCH' 
-\i (00:02:03) FORM scl_browser treelist  BOTTOM 'ANTI ETCH' 
-\i (00:02:04) FORM scl_browser treelist 'MULTISEL YES' ALL 'ANTI ETCH' 
-\i (00:02:04) FORM scl_browser treelist  ALL 'ANTI ETCH' 
-\i (00:02:05) FORM scl_browser done  
-\i (00:02:07) setwindow form.film_control
-\i (00:02:07) FORM film_control filmtree popup Cut SDFSD 
-\i (00:02:08) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:02:13) fillin "SILKSCREEN_YOP"
-\i (00:02:15) setwindow form.scl_browser
-\i (00:02:15) FORM scl_browser cancel  
-\i (00:02:16) setwindow form.film_control
-\i (00:02:16) FORM film_control filmtree popup Cut SILKSCREEN_YOP 
-\i (00:02:17) FORM film_control cancel  
-\i (00:02:17) setwindow pcb
-\i (00:02:17) generaledit 
-\i (00:02:19) artwork 
-\w (00:02:19) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:02:20) fillin confirm
-\i (00:02:21) setwindow form.film_control
-\i (00:02:21) FORM film_control film_control  
-\i (00:02:23) FORM film_control filmtree popup 'Add Manual' TOP 
-\i (00:02:29) fillin "SILKSCREEN_TOP"
-\i (00:02:32) setwindow form.scl_browser
-\i (00:02:32) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:02:32) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:02:32) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:02:35) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
-\i (00:02:35) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
-\i (00:02:35) FORM scl_browser treelist  'REF DES' 
-\i (00:02:40) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:02:40) FORM scl_browser treelist  SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
-\i (00:02:41) FORM scl_browser done  
-\i (00:02:43) setwindow form.film_control
-\i (00:02:43) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_TOP 
-\i (00:02:46) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:02:53) FORM film_control filmtree  TOP_LAYER 
-\i (00:02:55) FORM film_control filmtree popup 'Add Manual' TOP_LAYER 
-\i (00:03:04) fillin "PASTEMASK_BOTTOM"
-\i (00:03:07) setwindow form.scl_browser
-\i (00:03:07) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:07) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:08) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:03:13) FORM scl_browser treelist 'MULTISEL YES' PASTEMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:13) FORM scl_browser treelist  PASTEMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:14) FORM scl_browser done  
-\i (00:03:15) setwindow form.film_control
-\i (00:03:15) FORM film_control filmtree popup 'Display for Visibility' PASTEMASK_BOTTOM 
-\i (00:03:17) FORM film_control filmtree popup 'Add Manual' PASTEMASK_BOTTOM 
-\i (00:03:23) fillin "SILKSCREEN_BOTTOM"
-\i (00:03:26) setwindow form.scl_browser
-\i (00:03:26) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:26) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:27) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:03:31) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:31) FORM scl_browser treelist  SILKSCREEN_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:33) FORM scl_browser done  
-\i (00:03:34) setwindow form.film_control
-\i (00:03:34) FORM film_control filmtree popup 'Display for Visibility' SILKSCREEN_BOTTOM 
-\i (00:03:36) FORM film_control filmtree popup 'Add Manual' SILKSCREEN_BOTTOM 
-\i (00:03:42) fillin "SOLDERMASK_BOTTOM"
-\i (00:03:44) setwindow form.scl_browser
-\i (00:03:44) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:44) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:45) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:03:50) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:50) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
-\i (00:03:51) FORM scl_browser done  
-\i (00:03:52) setwindow form.film_control
-\i (00:03:52) FORM film_control filmtree popup 'Display for Visibility' SOLDERMASK_BOTTOM 
-\i (00:03:54) FORM film_control filmtree popup 'Display for Visibility' SOLDERMASK_TOP 
-\i (00:04:30) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:04:31) FORM film_control filmtree  TOP_LAYER 
-\i (00:04:31) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:04:32) FORM film_control ok  
-\i (00:04:32) setwindow pcb
-\i (00:04:32) generaledit 
-\i (00:04:41) nctape_full 
-\w (00:04:42) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
-\i (00:04:43) setwindow form.nc_drill
-\i (00:04:43) FORM nc_drill auto_tool_select YES 
-\i (00:04:46) FORM nc_drill parameters  
-\i (00:04:47) setwindow form.nc_parameters
-\i (00:04:47) FORM nc_parameters enhanced_format YES 
-\i (00:05:10) FORM nc_parameters done  
-\i (00:05:27) setwindow form.nc_drill
-\i (00:05:27) FORM nc_drill execute  
-\t (00:05:27) Starting Generating NC Drill...
-\e (00:05:27) ERROR(SPMHGE-268): NC Drill had errors, use Viewlog to review the log file.
-\e (00:05:28) A problem occurred, see the logfile (using Viewlog).
-\i (00:05:49) setwindow pcb
-\i (00:05:49) setwindow text
-\i (00:05:49) close
-\i (00:05:51) setwindow form.nc_drill
-\i (00:05:51) FORM nc_drill parameters  
-\i (00:05:56) setwindow form.nc_parameters
-\i (00:05:56) FORM nc_parameters integer_places 5 
-\i (00:05:56) FORM nc_parameters done  
-\i (00:05:58) setwindow form.nc_drill
-\i (00:05:58) FORM nc_drill execute  
-\t (00:05:58) Starting Generating NC Drill...
-\i (00:06:03) FORM nc_drill close  
-\i (00:06:03) setwindow pcb
-\i (00:06:03) generaledit 
-\i (00:08:11) color192 
-\i (00:08:11) generaledit 
-\i (00:08:15) QtSignal CVDLayerContainer CVDVisibilityOn clicked
-\i (00:08:17) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:08:17) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:08:17) zoom in 1 
-\i (00:08:17) setwindow pcb
-\i (00:08:17) zoom in 123.5869 18.1522
-\t (00:08:17) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:08:17) trapsize 6793
-\i (00:08:17) zoom in 1 
-\i (00:08:17) setwindow pcb
-\i (00:08:17) zoom in 111.9021 19.3750
-\t (00:08:17) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:08:17) trapsize 3397
-\i (00:08:17) zoom in 1 
-\i (00:08:17) setwindow pcb
-\i (00:08:17) zoom in 112.6494 19.0354
-\t (00:08:17) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
-\i (00:08:17) trapsize 1698
-\i (00:08:18) zoom out 1 
-\i (00:08:18) setwindow pcb
-\i (00:08:18) zoom out 112.8192 18.7297
-\t (00:08:18) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:08:18) trapsize 3397
-\i (00:08:18) zoom out 1 
-\i (00:08:18) setwindow pcb
-\i (00:08:18) zoom out 112.6155 18.1862
-\t (00:08:18) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:08:18) trapsize 6793
-\i (00:08:18) zoom out 1 
-\i (00:08:18) setwindow pcb
-\i (00:08:18) zoom out 112.6155 18.1862
-\t (00:08:18) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:08:18) trapsize 13587
-\i (00:08:18) zoom out 1 
-\i (00:08:18) setwindow pcb
-\i (00:08:18) zoom out 126.0325 16.7935
-\i (00:08:18) trapsize 13587
-\i (00:08:29) colorview create 
-\i (00:08:29) generaledit 
-\i (00:08:35) setwindow form.colorview_create
-\i (00:08:35) FORM colorview_create colorview_name TOP 
-\i (00:08:35) FORM colorview_create save  
-\i (00:08:38) FORM colorview_create save  
-\i (00:08:40) fillin no 
-\i (00:08:41) fillin "menu_cancel"
-\i (00:08:42) FORM colorview_create done  
-\i (00:08:46) setwindow pcb
-\i (00:08:46) grid toggle 
-\i (00:08:46) generaledit 
-\i (00:08:47) grid toggle 
-\i (00:08:47) generaledit 
-\i (00:08:47) color192 
-\i (00:08:47) generaledit 
-\i (00:08:53) QtSignal CVDLayerContainer CVDVisibilityOff clicked
-\i (00:08:55) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
-\i (00:08:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
-\i (00:09:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
-\i (00:09:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:09:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
-\i (00:09:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
-\i (00:09:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:09:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:09:13) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:09:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:09:14) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:09:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:09:15) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:09:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:09:16) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:09:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:09:17) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:09:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:09:21) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
-\i (00:09:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:09:24) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:09:24) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 30.6521 147.7716
-\t (00:09:26) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:09:26) trapsize 6793
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 31.6033 146.9564
-\t (00:09:26) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:09:26) trapsize 3397
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 32.0788 146.8205
-\t (00:09:26) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
-\i (00:09:26) trapsize 1698
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 31.9770 145.9713
-\t (00:09:26) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:09:26) trapsize 849
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 32.0449 145.8525
-\t (00:09:26) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
-\i (00:09:26) trapsize 425
-\i (00:09:26) zoom in 1 
-\i (00:09:26) setwindow pcb
-\i (00:09:26) zoom in 32.0789 145.8441
-\i (00:09:26) trapsize 212
-\i (00:09:27) zoom out 1 
-\i (00:09:27) setwindow pcb
-\i (00:09:27) zoom out 32.1086 145.8356
-\i (00:09:27) trapsize 425
-\i (00:09:27) zoom out 1 
-\i (00:09:27) setwindow pcb
-\i (00:09:27) zoom out 32.1086 145.8357
-\t (00:09:27) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
-\i (00:09:27) trapsize 849
-\i (00:09:27) zoom out 1 
-\i (00:09:27) setwindow pcb
-\i (00:09:27) zoom out 32.1086 145.8357
-\t (00:09:27) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
-\i (00:09:27) trapsize 1698
-\i (00:09:27) zoom out 1 
-\i (00:09:27) setwindow pcb
-\i (00:09:27) zoom out 32.1086 145.8357
-\t (00:09:27) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
-\i (00:09:27) trapsize 3397
-\i (00:09:27) zoom out 1 
-\i (00:09:27) setwindow pcb
-\i (00:09:27) zoom out 31.9048 145.8356
-\t (00:09:27) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
-\i (00:09:27) trapsize 6794
-\i (00:09:29) colorview create 
-\i (00:09:29) generaledit 
-\i (00:09:33) setwindow form.colorview_create
-\i (00:09:33) FORM colorview_create colorview_name TOP_L 
-\i (00:09:33) FORM colorview_create done  
-\i (00:10:08) setwindow pcb
-\i (00:10:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out 102.1497 141.8954
-\t (00:10:09) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:10:09) trapsize 13587
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out 176.3042 128.2064
-\i (00:10:09) trapsize 13587
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out 176.3042 128.2064
-\i (00:10:09) trapsize 13587
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out 176.3042 128.2064
-\i (00:10:09) trapsize 13587
-\i (00:10:09) zoom out 1 
-\i (00:10:09) setwindow pcb
-\i (00:10:09) zoom out 176.3042 128.2064
-\i (00:10:09) trapsize 13587
-\i (00:10:11) grid toggle 
-\i (00:10:11) generaledit 
-\i (00:10:12) zoom in 1 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) zoom in 26.3043 87.9891
-\i (00:10:12) trapsize 6793
-\i (00:10:12) zoom in 1 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) zoom in 26.5761 87.8533
-\i (00:10:12) trapsize 3397
-\i (00:10:12) zoom in 1 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) zoom in 26.5761 87.8533
-\i (00:10:12) trapsize 1698
-\i (00:10:12) zoom out 1 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) zoom out 28.0368 88.9743
-\i (00:10:12) trapsize 3397
-\i (00:10:12) zoom out 1 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) zoom out 28.1047 88.9743
-\i (00:10:12) trapsize 6793
-\i (00:10:13) zoom out 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom out 55.2786 93.4580
-\i (00:10:13) trapsize 13587
-\i (00:10:13) zoom out 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom out 97.2282 103.4782
-\i (00:10:13) trapsize 13587
-\i (00:10:13) zoom in 1 
-\i (00:10:13) setwindow pcb
-\i (00:10:13) zoom in 162.1738 114.0760
-\i (00:10:13) trapsize 6793
-\i (00:10:14) zoom out 1 
-\i (00:10:14) setwindow pcb
-\i (00:10:14) zoom out 131.8749 114.0760
-\i (00:10:14) trapsize 13587
-\t (00:10:14) last pick:  225.7607 117.0651
-\w (00:10:14) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
-\i (00:10:16) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP_LAYER"
-\i (00:12:09) artwork 
-\w (00:12:09) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:12:11) fillin confirm
-\i (00:12:12) setwindow form.film_control
-\i (00:12:12) FORM film_control film_control  
-\i (00:12:13) FORM film_control create  
-\w (00:12:13) No film records selected.
-\i (00:12:15) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
-\i (00:12:16) FORM film_control filmtree 'MULTISEL YES' BOTTOM_LAYER 
-\i (00:12:16) FORM film_control filmtree  BOTTOM_LAYER 
-\i (00:12:16) FORM film_control filmtree 'MULTISEL NO' BOTTOM 
-\i (00:12:16) FORM film_control filmtree  BOTTOM 
-\i (00:12:16) FORM film_control filmtree 'MULTISEL NO' BOTTOM_LAYER 
-\i (00:12:16) FORM film_control filmtree  BOTTOM_LAYER 
-\i (00:12:28) FORM film_control filmtree 'MULTISEL YES' BOTTOM_LAYER 
-\i (00:12:28) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_BOTTOM 
-\i (00:12:28) FORM film_control filmtree  PASTEMASK_BOTTOM 
-\i (00:12:29) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_TOP 
-\i (00:12:29) FORM film_control filmtree  PASTEMASK_TOP 
-\i (00:12:30) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
-\i (00:12:30) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:12:31) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:12:31) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:12:31) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
-\i (00:12:31) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:12:32) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:12:32) FORM film_control filmtree  TOP 
-\i (00:12:32) FORM film_control filmtree 'MULTISEL NO' TOP 
-\i (00:12:32) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
-\i (00:12:32) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:12:33) FORM film_control filmtree 'MULTISEL YES' TOP_LAYER 
-\i (00:12:33) FORM film_control filmtree  TOP_LAYER 
-\i (00:12:34) FORM film_control create  
-\t (00:12:34) Checking db records
-\t (00:12:34)     checking for orphans...
-\t (00:12:34)     Checked  43 percent
-\t (00:12:34)     Checked  87 percent
-\t (00:12:34)     Checked 100 percent
-\w (00:12:34) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:12:34) Done dbdoctor.
-\t (00:12:34) Starting Create artwork films...
-\w (00:12:35) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:12:36) Artwork generated with warnings.
-\i (00:13:34) setwindow pcb
-\i (00:13:34) setwindow text
-\i (00:13:34) close
-\i (00:13:35) setwindow form.film_control
-\i (00:13:35) FORM film_control cancel  
-\i (00:13:35) setwindow pcb
-\i (00:13:35) generaledit 
-\i (00:15:43) artwork 
-\w (00:15:43) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:15:45) fillin confirm
-\i (00:15:47) setwindow form.film_control
-\i (00:15:47) FORM film_control film_control  
-\i (00:15:52) FORM film_control cancel  
-\i (00:15:52) setwindow pcb
-\i (00:15:52) generaledit 
-\i (00:17:03) zoom in 1 
-\i (00:17:03) setwindow pcb
-\i (00:17:03) zoom in 86.3586 138.8042
-\i (00:17:03) trapsize 6793
-\i (00:17:03) zoom in 1 
-\i (00:17:03) setwindow pcb
-\i (00:17:03) zoom in 70.1901 135.4075
-\i (00:17:03) trapsize 3397
-\i (00:17:03) zoom out 1 
-\i (00:17:03) setwindow pcb
-\i (00:17:03) zoom out 62.1738 129.8368
-\i (00:17:03) trapsize 6793
-\i (00:17:03) zoom out 1 
-\i (00:17:03) setwindow pcb
-\i (00:17:03) zoom out 64.7553 128.0706
-\i (00:17:03) trapsize 13587
-\i (00:17:03) zoom in 1 
-\i (00:17:03) setwindow pcb
-\i (00:17:03) zoom in 24.1304 117.3369
-\i (00:17:03) trapsize 6793
-\i (00:17:04) zoom in 1 
-\i (00:17:04) setwindow pcb
-\i (00:17:04) zoom in 25.0815 118.8315
-\i (00:17:04) trapsize 3397
-\i (00:17:05) zoom in 1 
-\i (00:17:05) setwindow pcb
-\i (00:17:05) zoom in 45.3940 119.6467
-\i (00:17:05) trapsize 1698
-\i (00:17:05) zoom in 1 
-\i (00:17:05) setwindow pcb
-\i (00:17:05) zoom in 45.3940 119.6468
-\i (00:17:05) trapsize 849
-\i (00:17:07) zoom out 1 
-\i (00:17:07) setwindow pcb
-\i (00:17:07) zoom out 46.5150 118.2032
-\i (00:17:07) trapsize 1698
-\i (00:17:07) zoom out 1 
-\i (00:17:07) setwindow pcb
-\i (00:17:07) zoom out 46.5150 118.1013
-\i (00:17:07) trapsize 3397
-\i (00:17:07) zoom out 1 
-\i (00:17:07) setwindow pcb
-\i (00:17:07) zoom out 46.5149 118.1013
-\i (00:17:07) trapsize 6794
-\i (00:17:08) zoom in 1 
-\i (00:17:08) setwindow pcb
-\i (00:17:08) zoom in 95.4625 113.6176
-\i (00:17:08) trapsize 3397
-\i (00:17:08) zoom in 1 
-\i (00:17:08) setwindow pcb
-\i (00:17:08) zoom in 79.4299 115.8595
-\i (00:17:08) trapsize 1698
-\i (00:17:08) zoom in 1 
-\i (00:17:08) setwindow pcb
-\i (00:17:08) zoom in 75.5576 116.5049
-\i (00:17:08) trapsize 849
-\i (00:17:09) zoom out 1 
-\i (00:17:09) setwindow pcb
-\i (00:17:09) zoom out 75.5576 116.5049
-\i (00:17:09) trapsize 1698
-\i (00:17:09) zoom out 1 
-\i (00:17:09) setwindow pcb
-\i (00:17:09) zoom out 77.2219 115.7577
-\i (00:17:09) trapsize 3397
-\i (00:17:09) zoom in 1 
-\i (00:17:09) setwindow pcb
-\i (00:17:09) zoom in 49.9799 116.8447
-\i (00:17:09) trapsize 1698
-\i (00:17:09) zoom in 1 
-\i (00:17:09) setwindow pcb
-\i (00:17:09) zoom in 48.3834 116.9126
-\i (00:17:09) trapsize 849
-\i (00:17:10) zoom out 1 
-\i (00:17:10) setwindow pcb
-\i (00:17:10) zoom out 48.2646 116.6239
-\i (00:17:10) trapsize 1698
-\i (00:17:10) zoom out 1 
-\i (00:17:10) setwindow pcb
-\i (00:17:10) zoom out 46.8378 116.0464
-\i (00:17:10) trapsize 3397
-\i (00:17:10) zoom out 1 
-\i (00:17:10) setwindow pcb
-\i (00:17:10) zoom out 46.2264 116.0465
-\i (00:17:10) trapsize 6794
-\i (00:17:11) zoom in 1 
-\i (00:17:11) setwindow pcb
-\i (00:17:11) zoom in 119.2387 118.3562
-\i (00:17:11) trapsize 3397
-\i (00:17:11) zoom in 1 
-\i (00:17:11) setwindow pcb
-\i (00:17:11) zoom in 118.5594 118.2883
-\i (00:17:11) trapsize 1698
-\i (00:17:12) zoom out 1 
-\i (00:17:12) setwindow pcb
-\i (00:17:12) zoom out 123.1111 116.7598
-\i (00:17:12) trapsize 3397
-\i (00:17:12) zoom out 1 
-\i (00:17:12) setwindow pcb
-\i (00:17:12) zoom out 123.5866 116.5559
-\i (00:17:12) trapsize 6794
-\i (00:17:13) zoom in 1 
-\i (00:17:13) setwindow pcb
-\i (00:17:13) zoom in 40.1623 117.5071
-\i (00:17:13) trapsize 3397
-\i (00:17:13) zoom in 1 
-\i (00:17:13) setwindow pcb
-\i (00:17:13) zoom in 43.1515 117.2353
-\i (00:17:13) trapsize 1698
-\i (00:17:13) zoom in 1 
-\i (00:17:13) setwindow pcb
-\i (00:17:13) zoom in 43.2534 117.2354
-\i (00:17:13) trapsize 849
-\i (00:17:18) drag_start grid 45.7671 115.6050
-\i (00:17:18) slide 
-\t (00:17:18) Waiting for the destination pick.
-\i (00:17:19) drag_stop grid 45.9709 115.1634
-\t (00:17:19) No DRC errors detected.
-\i (00:17:19) generaledit 
-\i (00:17:21) copy 
-\t (00:17:21) Select the element(s) to copy.
-\i (00:17:21) pick grid 45.9369 115.1124
-\t (00:17:21) last pick:  45.9486 115.1128
-\t (00:17:21) last pick:  45.9740 115.1636
-\i (00:17:23) pick grid 46.0218 118.3563
-\t (00:17:23) last pick:  46.0248 118.3640
-\i (00:17:24) zoom out 1 
-\i (00:17:24) setwindow pcb
-\i (00:17:24) zoom out 49.7752 118.8489
-\i (00:17:24) trapsize 1698
-\i (00:17:24) zoom out 1 
-\i (00:17:24) setwindow pcb
-\i (00:17:24) zoom out 50.5904 117.7959
-\i (00:17:24) trapsize 3397
-\i (00:17:24) zoom out 1 
-\i (00:17:24) setwindow pcb
-\i (00:17:24) zoom out 50.7942 117.3883
-\i (00:17:24) trapsize 6794
-\i (00:17:25) zoom in 1 
-\i (00:17:25) setwindow pcb
-\i (00:17:25) zoom in 43.0166 149.4536
-\i (00:17:25) trapsize 3397
-\i (00:17:25) zoom in 1 
-\i (00:17:25) setwindow pcb
-\i (00:17:25) zoom in 43.0166 148.4346
-\i (00:17:25) trapsize 1698
-\i (00:17:26) zoom out 1 
-\i (00:17:26) setwindow pcb
-\i (00:17:26) zoom out 41.7598 144.1207
-\i (00:17:26) trapsize 3397
-\i (00:17:28) zoom in 1 
-\i (00:17:28) setwindow pcb
-\i (00:17:28) zoom in 44.3414 141.1996
-\i (00:17:28) trapsize 1698
-\i (00:17:32) pick grid 45.0208 141.9809
-\t (00:17:32) last pick:  45.0088 141.9860
-\i (00:17:33) prepopup 45.0547 140.7581
-\i (00:17:34) done 
-\i (00:17:34) generaledit 
-\i (00:17:35) drag_start grid 44.8849 140.9619
-\i (00:17:35) slide 
-\t (00:17:35) Waiting for the destination pick.
-\i (00:17:37) drag_stop grid 44.6471 140.6222
-\t (00:17:37) No DRC errors detected.
-\i (00:17:37) generaledit 
-\i (00:17:38) drag_start grid 41.9637 139.6371
-\i (00:17:38) slide 
-\t (00:17:38) Waiting for the destination pick.
-\i (00:17:38) drag_stop grid 41.9297 139.7730
-\t (00:17:38) No DRC errors detected.
-\i (00:17:39) generaledit 
-\i (00:17:40) undo 
-\i (00:17:40) trapsize 1698
-\i (00:17:40) generaledit 
-\i (00:17:40) zoom out 1 
-\i (00:17:40) setwindow pcb
-\i (00:17:40) zoom out 39.6879 139.3654
-\i (00:17:40) trapsize 3397
-\i (00:17:42) zoom out 1 
-\i (00:17:42) setwindow pcb
-\i (00:17:42) zoom out 30.5845 136.9876
-\i (00:17:42) trapsize 6794
-\i (00:17:43) zoom in 1 
-\i (00:17:43) setwindow pcb
-\i (00:17:43) zoom in 114.2806 146.9062
-\i (00:17:43) trapsize 3397
-\i (00:17:43) zoom in 1 
-\i (00:17:43) setwindow pcb
-\i (00:17:43) zoom in 114.4845 146.8383
-\i (00:17:43) trapsize 1698
-\i (00:17:44) zoom out 1 
-\i (00:17:44) setwindow pcb
-\i (00:17:44) zoom out 112.0049 141.1317
-\i (00:17:44) trapsize 3397
-\i (00:17:44) zoom out 1 
-\i (00:17:44) setwindow pcb
-\i (00:17:44) zoom out 110.4424 141.2676
-\i (00:17:44) trapsize 6794
-\i (00:17:45) zoom in 1 
-\i (00:17:45) setwindow pcb
-\i (00:17:45) zoom in 112.8880 115.4343
-\i (00:17:45) trapsize 3397
-\i (00:17:46) zoom out 1 
-\i (00:17:46) setwindow pcb
-\i (00:17:46) zoom out 113.0239 115.0947
-\i (00:17:46) trapsize 6794
-\i (00:17:46) zoom in 1 
-\i (00:17:46) setwindow pcb
-\i (00:17:46) zoom in 112.8880 112.1734
-\i (00:17:46) trapsize 3397
-\i (00:17:47) zoom out 1 
-\i (00:17:47) setwindow pcb
-\i (00:17:47) zoom out 112.6842 111.4941
-\i (00:17:47) trapsize 6794
-\i (00:17:47) zoom in 1 
-\i (00:17:47) setwindow pcb
-\i (00:17:47) zoom in 114.9941 90.2983
-\i (00:17:47) trapsize 3397
-\i (00:17:49) zoom out 1 
-\i (00:17:49) setwindow pcb
-\i (00:17:49) zoom out 114.9941 88.3962
-\i (00:17:49) trapsize 6794
-\i (00:17:50) zoom in 1 
-\i (00:17:50) setwindow pcb
-\i (00:17:50) zoom in 79.2603 91.3853
-\i (00:17:50) trapsize 3397
-\i (00:17:51) zoom out 1 
-\i (00:17:51) setwindow pcb
-\i (00:17:51) zoom out 80.4152 113.6001
-\i (00:17:51) trapsize 6794
-\i (00:17:51) zoom out 1 
-\i (00:17:51) setwindow pcb
-\i (00:17:51) zoom out 80.4152 96.8881
-\i (00:17:51) trapsize 13587
-\i (00:17:52) zoom in 1 
-\i (00:17:52) setwindow pcb
-\i (00:17:52) zoom in 71.9565 84.4565
-\i (00:17:52) trapsize 6793
-\i (00:17:52) zoom in 1 
-\i (00:17:52) setwindow pcb
-\i (00:17:52) zoom in 72.7717 82.8261
-\i (00:17:52) trapsize 3397
-\i (00:17:52) zoom out 1 
-\i (00:17:52) setwindow pcb
-\i (00:17:52) zoom out 72.9755 79.7011
-\i (00:17:52) trapsize 6793
-\i (00:17:52) zoom out 1 
-\i (00:17:52) setwindow pcb
-\i (00:17:52) zoom out 74.1984 69.6468
-\i (00:17:52) trapsize 13587
-\i (00:17:53) zoom in 1 
-\i (00:17:53) setwindow pcb
-\i (00:17:53) zoom in 42.0652 46.9565
-\i (00:17:53) trapsize 6793
-\i (00:17:53) zoom in 1 
-\i (00:17:53) setwindow pcb
-\i (00:17:53) zoom in 42.6087 45.0544
-\i (00:17:53) trapsize 3397
-\i (00:17:55) zoom out 1 
-\i (00:17:55) setwindow pcb
-\i (00:17:55) zoom out 41.1142 42.1332
-\i (00:17:55) trapsize 6793
-\i (00:17:56) zoom out 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom out 38.5326 24.0626
-\i (00:17:56) trapsize 13587
-\i (00:17:56) zoom in 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom in 37.1739 12.1739
-\i (00:17:56) trapsize 6793
-\i (00:17:56) zoom in 1 
-\i (00:17:56) setwindow pcb
-\i (00:17:56) zoom in 37.3098 12.4457
-\i (00:17:56) trapsize 3397
-\i (00:17:57) zoom out 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom out 37.3098 12.4457
-\i (00:17:57) trapsize 6793
-\i (00:17:57) zoom out 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom out 37.3098 12.4458
-\i (00:17:57) trapsize 13587
-\i (00:17:57) zoom in 1 
-\i (00:17:57) setwindow pcb
-\i (00:17:57) zoom in 39.6195 13.2609
-\i (00:17:57) trapsize 6793
-\i (00:17:58) zoom in 1 
-\i (00:17:58) setwindow pcb
-\i (00:17:58) zoom in 39.6196 13.2609
-\i (00:17:58) trapsize 3397
-\i (00:17:58) zoom in 1 
-\i (00:17:58) setwindow pcb
-\i (00:17:58) zoom in 39.4837 13.0571
-\i (00:17:58) trapsize 1698
-\i (00:18:00) pick grid 41.0122 18.9335
-\t (00:18:00) last pick:  41.0210 18.9230
-\i (00:18:01) copy 
-\i (00:18:04) pick grid 41.4198 20.7677
-\t (00:18:04) last pick:  41.4274 20.7772
-\i (00:18:04) prepopup 40.6046 23.2473
-\i (00:18:05) done 
-\i (00:18:05) generaledit 
-\i (00:18:05) zoom out 1 
-\i (00:18:05) setwindow pcb
-\i (00:18:05) zoom out 37.4796 20.9036
-\i (00:18:05) trapsize 3397
-\i (00:18:05) zoom out 1 
-\i (00:18:05) setwindow pcb
-\i (00:18:05) zoom out 37.4797 20.6997
-\i (00:18:05) trapsize 6793
-\i (00:18:06) zoom in 1 
-\i (00:18:06) setwindow pcb
-\i (00:18:06) zoom in 119.8166 21.2772
-\i (00:18:06) trapsize 3397
-\i (00:18:06) zoom in 1 
-\i (00:18:06) setwindow pcb
-\i (00:18:06) zoom in 119.8166 21.2772
-\i (00:18:06) trapsize 1698
-\i (00:18:07) zoom in 1 
-\i (00:18:07) setwindow pcb
-\i (00:18:07) zoom in 119.0694 19.9185
-\i (00:18:07) trapsize 849
-\i (00:18:07) zoom out 1 
-\i (00:18:07) setwindow pcb
-\i (00:18:07) zoom out 119.1034 19.7147
-\i (00:18:07) trapsize 1698
-\i (00:18:07) zoom out 1 
-\i (00:18:07) setwindow pcb
-\i (00:18:07) zoom out 119.1033 19.6468
-\i (00:18:07) trapsize 3397
-\i (00:18:07) zoom out 1 
-\i (00:18:07) setwindow pcb
-\i (00:18:07) zoom out 119.1034 19.5109
-\i (00:18:07) trapsize 6794
-\i (00:18:08) zoom in 1 
-\i (00:18:08) setwindow pcb
-\i (00:18:08) zoom in 122.2284 48.3154
-\i (00:18:08) trapsize 3397
-\i (00:18:08) zoom out 1 
-\i (00:18:08) setwindow pcb
-\i (00:18:08) zoom out 121.8887 48.9269
-\i (00:18:08) trapsize 6794
-\i (00:18:09) zoom in 1 
-\i (00:18:09) setwindow pcb
-\i (00:18:09) zoom in 120.2583 78.5466
-\i (00:18:09) trapsize 3397
-\i (00:18:10) zoom out 1 
-\i (00:18:10) setwindow pcb
-\i (00:18:10) zoom out 120.2583 78.5466
-\i (00:18:10) trapsize 6794
-\i (00:18:10) zoom out 1 
-\i (00:18:10) setwindow pcb
-\i (00:18:10) zoom out 120.2583 78.5467
-\i (00:18:10) trapsize 13587
-\i (00:18:11) save 
-\i (00:18:12) fillin yes 
-   (00:18:12) Loading signal.cxt 
-\i (00:18:12) generaledit 
-\i (00:18:21) nctape_full 
-\i (00:18:23) setwindow form.nc_drill
-\i (00:18:23) FORM nc_drill parameters  
-\i (00:18:25) setwindow form.nc_parameters
-\i (00:18:25) FORM nc_parameters done  
-\i (00:18:26) setwindow form.nc_drill
-\i (00:18:26) FORM nc_drill execute  
-\t (00:18:26) Starting Generating NC Drill...
-\i (00:18:30) FORM nc_drill cancel  
-\i (00:18:30) setwindow pcb
-\i (00:18:30) generaledit 
-\i (00:18:31) artwork 
-\w (00:18:31) Generating english artwork from a metric database may cause slight coordinate roundoff error in output file.
-\i (00:18:32) fillin confirm
-\i (00:18:33) setwindow form.film_control
-\i (00:18:33) FORM film_control film_control  
-\i (00:18:35) FORM film_control filmtree 'MULTISEL YES' BOTTOM_LAYER 
-\i (00:18:35) FORM film_control filmtree  BOTTOM_LAYER 
-\i (00:18:35) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_TOP 
-\i (00:18:35) FORM film_control filmtree  PASTEMASK_TOP 
-\i (00:18:36) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_BOTTOM 
-\i (00:18:36) FORM film_control filmtree  PASTEMASK_BOTTOM 
-\i (00:18:37) FORM film_control filmtree 'MULTISEL NO' PASTEMASK_TOP 
-\i (00:18:37) FORM film_control filmtree  PASTEMASK_TOP 
-\i (00:18:38) FORM film_control filmtree 'MULTISEL YES' PASTEMASK_TOP 
-\i (00:18:38) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_BOTTOM 
-\i (00:18:38) FORM film_control filmtree  SILKSCREEN_BOTTOM 
-\i (00:18:38) FORM film_control filmtree 'MULTISEL YES' SILKSCREEN_TOP 
-\i (00:18:38) FORM film_control filmtree  SILKSCREEN_TOP 
-\i (00:18:39) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_BOTTOM 
-\i (00:18:39) FORM film_control filmtree  SOLDERMASK_BOTTOM 
-\i (00:18:39) FORM film_control filmtree 'MULTISEL YES' SOLDERMASK_TOP 
-\i (00:18:39) FORM film_control filmtree  SOLDERMASK_TOP 
-\i (00:18:40) FORM film_control filmtree 'MULTISEL YES' TOP_LAYER 
-\i (00:18:40) FORM film_control filmtree  TOP_LAYER 
-\i (00:18:42) FORM film_control create  
-\t (00:18:42) Checking db records
-\t (00:18:42)     checking for orphans...
-\t (00:18:42)     Checked  43 percent
-\t (00:18:42)     Checked  86 percent
-\t (00:18:42)     Checked 100 percent
-\w (00:18:42) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:18:42) Done dbdoctor.
-\t (00:18:42) Starting Create artwork films...
-\w (00:18:43) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:18:44) Artwork generated with warnings.
-\i (00:18:47) setwindow pcb
-\i (00:18:47) setwindow text
-\i (00:18:47) close
-\i (00:18:51) setwindow form.film_control
-\i (00:18:51) FORM film_control cancel  
-\i (00:18:52) setwindow pcb
-\i (00:18:52) generaledit 
-\i (00:22:52) exit 
-\e (00:22:52) Do you want to save the changes you made to C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd?
-\i (00:22:55) fillin yes 
-\t (00:22:55)     Journal end - Fri Apr 26 13:11:48 2019
+\t (00:00:03) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Apr 26 16:29:41 2019
+\t (00:00:03)         Host=DARYA User=Harry.Lee Pid=8476 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
+\d (00:00:15) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd
+\t (00:00:15) Grids are drawn 52.0192, 52.0192 apart for enhanced viewability.
+\t (00:00:15) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
+\i (00:00:15) trapsize 13661
+\i (00:00:15) trapsize 14327
+\i (00:00:15) trapsize 15060
+\i (00:00:15) trapsize 14327
+\t (00:00:15) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
+\i (00:00:15) trapsize 14327
+\i (00:00:15) trapsize 13587
+\i (00:00:15) generaledit 
+\i (00:00:18) new 
+\i (00:00:36) newdrawfillin "R0603.dra" "Package Symbol (Wizard)"
+\t (00:00:36) Starting new design...
+\i (00:00:36) trapsize 9569
+\i (00:00:36) trapsize 9901
+\i (00:00:36) trapsize 9569
+\i (00:00:36) trapsize 14245
+\i (00:00:36) trapsize 14245
+\i (00:00:37) trapsize 14327
+\i (00:00:37) package symbol wizard 
+   (00:00:39) Loading cmds.cxt 
+\i (00:00:39) setwindow form.sym_wizard
+\i (00:00:39) FORM sym_wizard sip YES 
+\i (00:00:39) FORM sym_wizard rca_smd YES 
+\i (00:00:41) FORM sym_wizard wiz_next  
+\i (00:00:44) FORM sym_wizard use_custom_template YES 
+\i (00:00:44) FORM sym_wizard no_custom_template YES 
+\i (00:00:51) FORM sym_wizard wiz_next  
+\i (00:00:54) fillin confirm
+\i (00:00:55) FORM sym_wizard load_template  
+\t (00:00:55) Opening existing design...
+\t (00:00:55) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:00:55) setwindow pcb
+\i (00:00:55) trapsize 209
+\i (00:00:55) trapsize 216
+\i (00:00:55) trapsize 209
+\t (00:00:55) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:00:55) trapsize 244
+\d (00:00:55) Design opened: C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:00:57) setwindow form.sym_wizard
+\i (00:00:57) FORM sym_wizard wiz_next  
+\i (00:01:00) FORM sym_wizard pack_units Millimeter 
+\i (00:01:01) FORM sym_wizard pack_units_create Millimeter 
+\i (00:01:04) FORM sym_wizard ref_des C* 
+\i (00:01:05) FORM sym_wizard ref_des R* 
+\i (00:01:06) FORM sym_wizard wiz_next  
+\i (00:01:59) FORM sym_wizard smd_discrete_e1 0.059 
+\i (00:02:28) FORM sym_wizard smd_discrete_width 1.550 
+\i (00:02:43) FORM sym_wizard smd_discrete_e1 1.500 
+\i (00:02:49) FORM sym_wizard smd_discrete_len 0.900 
+\i (00:02:51) FORM sym_wizard wiz_next  
+\i (00:02:52) FORM sym_wizard default_pad_browse  
+\t (00:03:01) No valid name selected.
+\i (00:03:02) fillin "R0603"
+\i (00:03:04) FORM sym_wizard help  
+\i (00:03:08) FORM sym_wizard wiz_next  
+\i (00:03:12) FORM sym_wizard wiz_next  
+\i (00:03:13) FORM sym_wizard wiz_finish  
+\w (00:03:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:13) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:03:13) setwindow pcb
+\i (00:03:13) trapsize 6186
+\t (00:03:13) Performing DRC...
+\t (00:03:13) No DRC errors detected.
+\w (00:03:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:13) trapsize 6186
+\i (00:03:13) trapsize 873
+\i (00:03:13) trapsize 58
+\i (00:03:13) trapsize 51
+\t (00:03:13) Creating package symbol 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/r0603.psm'.
+\t (00:03:13) Starting Create symbol...
+\i (00:03:14) generaledit 
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -0.163 -0.086
+\i (00:03:15) trapsize 26
+\i (00:03:15) zoom in 1 
+\i (00:03:15) setwindow pcb
+\i (00:03:15) zoom in -0.162 -0.086
+\i (00:03:15) trapsize 13
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in -0.933 0.161
+\i (00:03:16) trapsize 6
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out -0.932 0.161
+\i (00:03:16) trapsize 13
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out -0.933 0.162
+\i (00:03:16) trapsize 26
+\i (00:03:16) zoom out 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom out -0.932 0.162
+\i (00:03:16) trapsize 51
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -1.190 1.517
+\i (00:03:17) trapsize 26
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in -1.462 1.219
+\i (00:03:17) trapsize 13
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -1.354 1.127
+\i (00:03:17) trapsize 26
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out -1.339 1.106
+\i (00:03:17) trapsize 51
+\i (00:03:18) save 
+\i (00:03:19) fillin yes 
+\t (00:03:20) Symbol 'r0603.psm' created.
+\i (00:03:20) generaledit 
+\i (00:04:57) xname_flush 
+\i (00:05:42) xname_flush 
+\e (00:05:43) Command not found: xdehilite
+\i (00:05:43) xname_flush 
+\i (00:05:43) done 
+\i (00:05:43) generaledit 
+\i (00:05:47) xname_flush 
+\e (00:06:05) Command not found: xdehilite
+\i (00:06:05) xname_flush 
+\i (00:06:05) done 
+\i (00:06:05) generaledit 
+\i (00:06:07) xname_flush 
+\e (00:06:09) Command not found: xdehilite
+\i (00:06:09) xname_flush 
+\i (00:06:09) done 
+\i (00:06:09) generaledit 
+\i (00:06:09) xname_flush 
+\i (00:06:10) xname_flush 
+\i (00:06:12) xname_flush 
+\i (00:06:13) xname_flush 
+\i (00:06:13) xname_flush 
+\i (00:06:15) xname_flush 
+\i (00:06:15) xname_flush 
+\i (00:06:16) xname_flush 
+\i (00:06:17) xname_flush 
+\i (00:06:17) xname_flush 
+\i (00:06:21) xname_flush 
+\i (00:06:29) xname_flush 
+\i (00:06:30) xname_flush 
+\i (00:06:31) xname_flush 
+\i (00:06:32) xname_flush 
+\i (00:07:51) exit 
+\t (00:07:51)     Journal end - Fri Apr 26 16:37:29 2019

@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : connector_pin1.dra                            )
+(    Drawing          : R0603.dra                                     )
 (    Software Version : 17.2S047                                      )
-(    Date/Time        : Fri Apr 26 15:00:25 2019                      )
+(    Date/Time        : Fri Apr 26 16:32:51 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Create Symbol of type: SHAPE
+Create Symbol of type: PACKAGE
     Directory = C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master
-    Name      = connector_pin1.ssm
+    Name      = r0603.psm
     User      = Harry.Lee
     Machine   = DARYA
 

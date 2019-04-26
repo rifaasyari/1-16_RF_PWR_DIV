@@ -1,9 +1,9 @@
-Fri Apr 26 12:45:37 2019				Page     1
+Fri Apr 26 15:11:26 2019				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Apr 26 12:45:37 2019
+	Fri Apr 26 15:11:26 2019
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
 (    Software Version : 17.2S047                                      )
-(    Date/Time        : Fri Apr 26 12:45:37 2019                      )
+(    Date/Time        : Fri Apr 26 15:11:26 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Apr 26 12:45:37 2019				Page     1
+Fri Apr 26 15:11:26 2019				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -36,13 +36,13 @@ Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
-Update symbol padstacks                = 'NO'
+Update symbol padstacks                = 'YES'
 Preserve padstacks replaced on pins    = 'NO'
 Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Harry.Lee/AppData/Local/Temp/#Taaaaay10664.tmp'
+Symbol list file                       = 'C:/Users/Harry.Lee/AppData/Local/Temp/#Taaaacz02008.tmp'
 
 
 ------ Library Paths ------
@@ -66,6 +66,12 @@ PADPATH =  .
 ------ Symbol Refresh Messages ------
 
 'CONNECTOR'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'CONNECTOR_PIN1'  pad stack refreshed successfully.
+'S_R40_50'  pad stack refreshed successfully.
 
 
 ----- Symbol Update Summary ----

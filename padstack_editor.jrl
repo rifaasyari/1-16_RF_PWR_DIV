@@ -1,18 +1,72 @@
 \t (00:00:00) padstack_editor 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Fri Apr 26 11:58:55 2019
-\t (00:00:00)         Host=DARYA User=Harry.Lee Pid=9640 CPUs=8
-\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master\s_r40_50.pad
+\t (00:00:00)     Journal start - Fri Apr 26 14:45:14 2019
+\t (00:00:00)         Host=DARYA User=Harry.Lee Pid=10980 CPUs=8
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master\connector_pin1.pad
 \t (00:00:00) 
-\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:04) QtSignal MainWindow Save triggered
-\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\t (00:00:08)     Journal end - Fri Apr 26 11:59:03 2019
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:05) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:05) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:05) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 0 Pad
+\d (00:00:06) QtFillin 
+\d (00:00:06) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:10) QtSignal GuidedMaskLayersTab PadShapeSymbolBrowse clicked
+\d (00:00:11) QtSignal ShapeSymbolBrowser NewSymbol clicked
+\d (00:06:10) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_soldermask.ssm
+\d (00:06:10) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_soldermask.ssm
+\d (00:06:11) QtSignal ShapeSymbolBrowser OK clicked
+\d (00:06:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:06:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:06:18) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:06:18) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:07:25) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:07:25) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:07:29) QtSignal GuidedMaskLayersTab PadShapeSymbolBrowse clicked
+\d (00:07:32) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_soldermask
+\d (00:07:32) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_soldermask
+\d (00:07:32) QtSignal ShapeSymbolBrowser SymbolsList doubleClicked conn_pin_soldermask
+\d (00:07:33) QtSignal GuidedMaskLayersTab PadShapeSymbolBrowse clicked
+\d (00:08:42) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:08:43) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad 1 Pad 2 Pad 3 +
+\d (00:08:43) QtSignal Pad 4 Pad 5 Pad 6 Pad 7 Pad
+\d (00:08:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:08:44) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:08:44) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:08:45) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:08:45) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:08:46) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:08:46) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:29) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellDoubleClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellDoubleClicked 2 Pad 2 1
+\d (00:09:31) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:09:32) QtSignal GuidedMaskLayersTab PadShapeSymbolBrowse clicked
+\d (00:09:37) QtSignal ShapeSymbolBrowser NewSymbol clicked
+\d (00:18:37) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_pastemask.ssm
+\d (00:18:37) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_pastemask.ssm
+\d (00:18:37) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged connector_pin1
+\d (00:18:37) QtSignal ShapeSymbolBrowser SymbolsList clicked connector_pin1
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_pastemask.ssm
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_pastemask.ssm
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_soldermask
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_soldermask
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged connector_pin1
+\d (00:18:38) QtSignal ShapeSymbolBrowser SymbolsList clicked connector_pin1
+\d (00:18:39) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged a7
+\d (00:18:39) QtSignal ShapeSymbolBrowser SymbolsList clicked a7
+\d (00:18:39) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_pastemask.ssm
+\d (00:18:39) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_pastemask.ssm
+\d (00:18:39) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_pastemask.ssm
+\d (00:18:40) QtSignal ShapeSymbolBrowser SymbolsList selectionChanged conn_pin_pastemask.ssm
+\d (00:18:40) QtSignal ShapeSymbolBrowser SymbolsList clicked conn_pin_pastemask.ssm
+\d (00:18:40) QtSignal ShapeSymbolBrowser SymbolsList doubleClicked conn_pin_pastemask.ssm
+\d (00:18:41) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:18:43) QtSignal MainWindow Save triggered
+\d (00:18:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:18:45) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:18:45) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:18:50) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:18:51) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\t (00:18:55)     Journal end - Fri Apr 26 15:04:09 2019

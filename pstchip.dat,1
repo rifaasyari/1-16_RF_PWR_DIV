@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Mar-30-2019 at 18:10:26}
+{ Using PSTWRITER 17.2.0 d001Apr-26-2019 at 16:36:53}
 primitive 'POWER_DIVIDER_PWR_DIV_PD3150J50';
   pin
     'GND':
@@ -46,6 +46,21 @@ primitive 'MICROWAVE_COAXIAL_CONNECTOR_CON';
     PART_NAME='Microwave_Coaxial_Connector';
     JEDEC_TYPE='Connector';
     VALUE='MM5829-2700';
+  end_body;
+end_primitive;
+primitive 'R0603_100_R0603_100';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R0603_100';
+    JEDEC_TYPE='R0603';
+    VALUE='100';
   end_body;
 end_primitive;
 END.
