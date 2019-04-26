@@ -50,27 +50,26 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "c:\users\harry.lee\desktop\1-16_rf_pwr_div-master\1-16_power_splitter.olb")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "c:\users\harry.lee\desktop\1-16_rf_pwr_div-master\1-16_power_splitter.dsn"))
+      (Path "Design Resources" ".\1-16_power_splitter.dsn")
+      (Path "Design Resources" ".\1-16_power_splitter.dsn"
+         "1-16_Power_Splitter_Project")
+      (Select "Design Resources" ".\1-16_power_splitter.dsn"
+         "1-16_Power_Splitter_Project" "1-16_Power_Splitter"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 244"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 244"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 539 1902 191 620")
-        (Scroll "-255 0")
-        (Zoom "83")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1475 52 498")
+        (Scroll "-93 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\HARRY.LEE\DESKTOP\1-16_RF_PWR_DIV-MASTER\1-16_POWER_SPLITTER.DSN")
+         "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_RF_PWR_DIV\1-16_POWER_SPLITTER.DSN")
       (Schematic "1-16_Power_Splitter_Project")
       (Page "1-16_Power_Splitter")))
   (PartMRUSelector
@@ -98,7 +97,7 @@
       (LibraryName
          "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_POWER_SPLITTER\1-16_POWER_SPLITTER.OLB")
       (DeviceIndex "0")))
-  (MPSSessionName "Harry.Lee")
+  (MPSSessionName "Raymond")
   (LastUsedLibraryBrowseDirectory
      "C:\Cadence\Cadence_SPB_17.2-2016\tools\capture\library")
   (ISPCBBASICLICENSE "false"))

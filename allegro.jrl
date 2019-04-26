@@ -1,158 +1,97 @@
-\t (00:00:03) allegro 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Apr 26 16:29:41 2019
-\t (00:00:03)         Host=DARYA User=Harry.Lee Pid=8476 CPUs=8
-\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:15) Opening existing design...
-\i (00:00:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
-\d (00:00:15) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd
-\t (00:00:15) Grids are drawn 52.0192, 52.0192 apart for enhanced viewability.
-\t (00:00:15) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:00:15) trapsize 13661
-\i (00:00:15) trapsize 14327
-\i (00:00:15) trapsize 15060
-\i (00:00:15) trapsize 14327
-\t (00:00:15) Grids are drawn 1.6256, 1.6256 apart for enhanced viewability.
-\i (00:00:15) trapsize 14327
-\i (00:00:15) trapsize 13587
-\i (00:00:15) generaledit 
-\i (00:00:18) new 
-\i (00:00:36) newdrawfillin "R0603.dra" "Package Symbol (Wizard)"
-\t (00:00:36) Starting new design...
-\i (00:00:36) trapsize 9569
-\i (00:00:36) trapsize 9901
-\i (00:00:36) trapsize 9569
-\i (00:00:36) trapsize 14245
-\i (00:00:36) trapsize 14245
-\i (00:00:37) trapsize 14327
-\i (00:00:37) package symbol wizard 
-   (00:00:39) Loading cmds.cxt 
-\i (00:00:39) setwindow form.sym_wizard
-\i (00:00:39) FORM sym_wizard sip YES 
-\i (00:00:39) FORM sym_wizard rca_smd YES 
-\i (00:00:41) FORM sym_wizard wiz_next  
-\i (00:00:44) FORM sym_wizard use_custom_template YES 
-\i (00:00:44) FORM sym_wizard no_custom_template YES 
-\i (00:00:51) FORM sym_wizard wiz_next  
-\i (00:00:54) fillin confirm
-\i (00:00:55) FORM sym_wizard load_template  
-\t (00:00:55) Opening existing design...
-\t (00:00:55) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:00:55) setwindow pcb
-\i (00:00:55) trapsize 209
-\i (00:00:55) trapsize 216
-\i (00:00:55) trapsize 209
-\t (00:00:55) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:00:55) trapsize 244
-\d (00:00:55) Design opened: C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:00:57) setwindow form.sym_wizard
-\i (00:00:57) FORM sym_wizard wiz_next  
-\i (00:01:00) FORM sym_wizard pack_units Millimeter 
-\i (00:01:01) FORM sym_wizard pack_units_create Millimeter 
-\i (00:01:04) FORM sym_wizard ref_des C* 
-\i (00:01:05) FORM sym_wizard ref_des R* 
-\i (00:01:06) FORM sym_wizard wiz_next  
-\i (00:01:59) FORM sym_wizard smd_discrete_e1 0.059 
-\i (00:02:28) FORM sym_wizard smd_discrete_width 1.550 
-\i (00:02:43) FORM sym_wizard smd_discrete_e1 1.500 
-\i (00:02:49) FORM sym_wizard smd_discrete_len 0.900 
-\i (00:02:51) FORM sym_wizard wiz_next  
-\i (00:02:52) FORM sym_wizard default_pad_browse  
-\t (00:03:01) No valid name selected.
-\i (00:03:02) fillin "R0603"
-\i (00:03:04) FORM sym_wizard help  
-\i (00:03:08) FORM sym_wizard wiz_next  
-\i (00:03:12) FORM sym_wizard wiz_next  
-\i (00:03:13) FORM sym_wizard wiz_finish  
-\w (00:03:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:03:13) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
-\i (00:03:13) setwindow pcb
-\i (00:03:13) trapsize 6186
-\t (00:03:13) Performing DRC...
-\t (00:03:13) No DRC errors detected.
-\w (00:03:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:03:13) trapsize 6186
-\i (00:03:13) trapsize 873
-\i (00:03:13) trapsize 58
-\i (00:03:13) trapsize 51
-\t (00:03:13) Creating package symbol 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/r0603.psm'.
-\t (00:03:13) Starting Create symbol...
-\i (00:03:14) generaledit 
-\i (00:03:15) zoom in 1 
-\i (00:03:15) setwindow pcb
-\i (00:03:15) zoom in -0.163 -0.086
-\i (00:03:15) trapsize 26
-\i (00:03:15) zoom in 1 
-\i (00:03:15) setwindow pcb
-\i (00:03:15) zoom in -0.162 -0.086
-\i (00:03:15) trapsize 13
-\i (00:03:16) zoom in 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom in -0.933 0.161
-\i (00:03:16) trapsize 6
-\i (00:03:16) zoom out 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out -0.932 0.161
-\i (00:03:16) trapsize 13
-\i (00:03:16) zoom out 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out -0.933 0.162
-\i (00:03:16) trapsize 26
-\i (00:03:16) zoom out 1 
-\i (00:03:16) setwindow pcb
-\i (00:03:16) zoom out -0.932 0.162
-\i (00:03:16) trapsize 51
-\i (00:03:17) zoom in 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom in -1.190 1.517
-\i (00:03:17) trapsize 26
-\i (00:03:17) zoom in 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom in -1.462 1.219
-\i (00:03:17) trapsize 13
-\i (00:03:17) zoom out 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom out -1.354 1.127
-\i (00:03:17) trapsize 26
-\i (00:03:17) zoom out 1 
-\i (00:03:17) setwindow pcb
-\i (00:03:17) zoom out -1.339 1.106
-\i (00:03:17) trapsize 51
-\i (00:03:18) save 
-\i (00:03:19) fillin yes 
-\t (00:03:20) Symbol 'r0603.psm' created.
-\i (00:03:20) generaledit 
-\i (00:04:57) xname_flush 
-\i (00:05:42) xname_flush 
-\e (00:05:43) Command not found: xdehilite
-\i (00:05:43) xname_flush 
-\i (00:05:43) done 
-\i (00:05:43) generaledit 
-\i (00:05:47) xname_flush 
-\e (00:06:05) Command not found: xdehilite
-\i (00:06:05) xname_flush 
-\i (00:06:05) done 
-\i (00:06:05) generaledit 
-\i (00:06:07) xname_flush 
-\e (00:06:09) Command not found: xdehilite
-\i (00:06:09) xname_flush 
-\i (00:06:09) done 
-\i (00:06:09) generaledit 
-\i (00:06:09) xname_flush 
-\i (00:06:10) xname_flush 
-\i (00:06:12) xname_flush 
-\i (00:06:13) xname_flush 
-\i (00:06:13) xname_flush 
-\i (00:06:15) xname_flush 
-\i (00:06:15) xname_flush 
-\i (00:06:16) xname_flush 
-\i (00:06:17) xname_flush 
-\i (00:06:17) xname_flush 
-\i (00:06:21) xname_flush 
-\i (00:06:29) xname_flush 
-\i (00:06:30) xname_flush 
-\i (00:06:31) xname_flush 
-\i (00:06:32) xname_flush 
-\i (00:07:51) exit 
-\t (00:07:51)     Journal end - Fri Apr 26 16:37:29 2019
+\t (00:01:17) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:17)     Journal start - Fri Apr 26 18:51:08 2019
+\t (00:01:17)         Host=DESKTOP-0F6HLN1 User=Raymond Pid=8676 CPUs=4
+\t (00:01:17) CmdLine= C:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:01:17) 
+\d (00:01:17) Design opened: C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
+\i (00:01:17) shapeedit 
+\i (00:02:12) netout 
+\i (00:02:16) fillin "menu_cancel"
+   (00:02:16) Loading cmds.cxt 
+\i (00:02:17) shapeedit 
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 93.9991 96.8586
+\t (00:02:18) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:02:18) trapsize 4205
+\i (00:02:18) zoom in 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 67.9268 96.8586
+\t (00:02:18) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:02:18) trapsize 2103
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 67.9268 96.8587
+\t (00:02:19) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:19) trapsize 1051
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 67.9268 96.8587
+\t (00:02:19) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:02:19) trapsize 526
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 67.9268 96.8588
+\i (00:02:19) trapsize 263
+\i (00:02:19) zoom in 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom in 67.9268 96.8588
+\i (00:02:19) trapsize 131
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 67.9268 96.8588
+\i (00:02:20) trapsize 263
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 67.9268 96.8588
+\i (00:02:20) trapsize 526
+\i (00:02:20) zoom out 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom out 67.9268 96.8588
+\t (00:02:20) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:20) trapsize 1051
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in 67.9269 96.8587
+\t (00:02:22) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (00:02:22) trapsize 526
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 67.9269 96.8588
+\t (00:02:23) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (00:02:23) trapsize 1051
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 67.9270 96.8587
+\t (00:02:23) Grids are drawn 0.2032, 0.2032 apart for enhanced viewability.
+\i (00:02:23) trapsize 2103
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 67.9270 96.8588
+\t (00:02:23) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (00:02:23) trapsize 4205
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 67.9267 96.8588
+\t (00:02:24) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
+\i (00:02:24) trapsize 8410
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 93.9991 96.8586
+\i (00:02:24) trapsize 8410
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 93.9991 96.8586
+\i (00:02:24) trapsize 8410
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 93.9991 96.8586
+\i (00:02:24) trapsize 8410
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out 93.9991 96.8586
+\i (00:02:25) trapsize 8410
+\i (00:45:35) exit 
+\e (00:45:35) Do you want to save the changes you made to 1-16_Power_Splitter.brd?
+\i (00:45:36) fillin yes 
+\t (00:45:37)     Journal end - Fri Apr 26 19:35:27 2019
