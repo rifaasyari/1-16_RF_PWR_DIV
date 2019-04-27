@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RF Parameters Check Log                                          )
+(                                                                     )
+(    Drawing          : 1-16_Power_Splitter.brd                       )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sat Apr 27 00:03:46 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Retrieving parameters for RF component - RFU1.
+Retrieving parameters for RF component - RFU3.
+Retrieving parameters for RF component - RFU2.
+Retrieving parameters for RF component - RFU5.
+Retrieving parameters for RF component - RFU4.
+Retrieving parameters for RF component - RFU6.
+==================== End of File ====================

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Sat Mar 30 18:10:44 2019                      )
+(    Date/Time        : Fri Apr 26 23:50:17 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro'
+Schematic directory:         'C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro'
 Design Directory:            '.'
-Old design name:             'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/1-16_Power_Splitter.brd'
-New design name:             'C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/1-16_Power_Splitter.brd'
+Old design name:             'C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd'
+New design name:             'C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd'
 
-CmdLine: netrev -$ -i C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/#Taaaaab10752.tmp
+CmdLine: netrev -$ -i C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro -y 1 -q netrev_constraint_report.xml C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/#Taaaaai04280.tmp
 
 ------ Preparing to read pst files ------
 
-Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstchip.dat 
-   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstchip.dat (00:00:00.03)
-Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxprt.dat 
-   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxprt.dat (00:00:00.00)
-Starting to read C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxnet.dat 
-   Finished reading C:/Users/Raymond/Documents/Projects/1-16_Power_Splitter/allegro/pstxnet.dat (00:00:00.00)
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstchip.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstxprt.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstxnet.dat 
+   Finished reading C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/allegro/pstxnet.dat (00:00:00.01)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -60,7 +60,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Mar 30 18:10:44 2019
+netrev run on Apr 26 23:50:17 2019
    DESIGN NAME : '1-16_POWER_SPLITTER'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -85,6 +85,6 @@ netrev run on Mar 30 18:10:44 2019
  No oversight detected
  No warning detected
 
-cpu time      0:00:53
+cpu time      0:00:54
 elapsed time  0:00:00
 

@@ -1,0 +1,20 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Apr 26 21:55:21 2019
+\t (00:00:04)         Host=DESKTOP-0F6HLN1 User=Raymond Pid=1060 CPUs=4
+\t (00:00:04) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\Raymond\Documents\Projects\1-16_RF_PWR_DIV\1-16_Power_Splitter2.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/1-16_Power_Splitter2.brd
+\t (00:00:07) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
+\i (00:00:07) trapsize 8071
+\i (00:00:07) trapsize 8299
+\t (00:00:07) Grids are drawn 0.8128, 0.8128 apart for enhanced viewability.
+\i (00:00:07) trapsize 8299
+\i (00:00:07) trapsize 8410
+\i (00:00:08) shapeedit 
+\i (00:00:13) save_as 
+\i (00:00:17) fillin "1-16_Power_Splitter.brd"
+\i (00:00:17) shapeedit 
+\i (00:00:18) exit 
+\t (00:00:18)     Journal end - Fri Apr 26 21:55:35 2019

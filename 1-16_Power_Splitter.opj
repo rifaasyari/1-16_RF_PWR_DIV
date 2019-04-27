@@ -28,7 +28,7 @@
     (width_End "80")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV-master")
+       "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_RF_PWR_DIV\ALLEGRO")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -44,8 +44,29 @@
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
     (Netlist_TAB "0")
-    (Board_sim_option "VHDL_flow"))
-  (Folder "Outputs")
+    (Board_sim_option "VHDL_flow")
+    ("Allegro Backannotation Run Genfeed" "TRUE")
+    ("Allegro Backannotation Board File"
+       "C:\Users\Raymond\Documents\Projects\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd")
+    ("Allegro Backannotation Netlist Directory"
+       "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_RF_PWR_DIV\LOGIC")
+    ("Allegro Backannotation Output File" "allegro\1-16_POWER_SPLITTER.swp")
+    ("Allegro Backannotation Update Schematic" "TRUE")
+    ("Allegro Backannotation View Output" "FALSE")
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_RF_PWR_DIV\1-16_POWER_SPLITTER.SWP")
+    (Backannotation_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (GlobalState
     (FileView
@@ -53,20 +74,20 @@
       (Path "Design Resources" ".\1-16_power_splitter.dsn")
       (Path "Design Resources" ".\1-16_power_splitter.dsn"
          "1-16_Power_Splitter_Project")
-      (Select "Design Resources" ".\1-16_power_splitter.dsn"
-         "1-16_Power_Splitter_Project" "1-16_Power_Splitter"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\1-16_power_splitter.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 244"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 244"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1475 52 498")
-        (Scroll "-93 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1136 52 300")
+        (Scroll "0 0")
+        (Zoom "170")
         (Occurrence "/"))
       (Path
          "C:\USERS\RAYMOND\DOCUMENTS\PROJECTS\1-16_RF_PWR_DIV\1-16_POWER_SPLITTER.DSN")
