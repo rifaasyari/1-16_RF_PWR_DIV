@@ -1,9 +1,9 @@
-Fri Apr 26 15:11:26 2019				Page     1
+Sun Apr 28 19:22:30 2019				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Apr 26 15:11:26 2019
+	Sun Apr 28 19:22:30 2019
 
 ------ Module Refresh Messages ------
 
@@ -18,31 +18,31 @@ SUMMARY:    Updated 0 out of 0 modules
 (    Refresh Symbol                                                   )
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
-(    Software Version : 17.2S047                                      )
-(    Date/Time        : Fri Apr 26 15:11:26 2019                      )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Apr 28 19:22:31 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Fri Apr 26 15:11:26 2019				Page     1
+Sun Apr 28 19:22:31 2019				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd'
+Input design  = 'C:/Users/zhouchang/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
 Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
-Update symbol padstacks                = 'YES'
+Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
 Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Harry.Lee/AppData/Local/Temp/#Taaaacz02008.tmp'
+Symbol list file                       = 'C:/Users/ZHOUCH~1/AppData/Local/Temp/#Taaaaae13260.tmp'
 
 
 ------ Library Paths ------
@@ -50,28 +50,22 @@ PSMPATH =  .
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/symbols 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/local/pcb/symbols 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           c:/cadence/spb_17.2/share/local/pcb/padstacks 
-           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
-           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'CONNECTOR'  symbol refreshed successfully.
-
-
------- Pad Stack Refresh Messages ------
-
-'CONNECTOR_PIN1'  pad stack refreshed successfully.
-'S_R40_50'  pad stack refreshed successfully.
+'R0603'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----
