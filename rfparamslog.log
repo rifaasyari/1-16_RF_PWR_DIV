@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Sun Apr 28 19:02:42 2019                      )
+(    Date/Time        : Mon Apr 29 02:31:57 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,7 +12,6 @@
 Retrieving parameters for RF component - RFU2.
 Retrieving parameters for RF component - RFU1.
 Retrieving parameters for RF component - RFU4.
-Retrieving parameters for RF component - RFU51.
 Retrieving parameters for RF component - RFU13.
 Retrieving parameters for RF component - RFU91.
 Retrieving parameters for RF component - RFU11.
@@ -127,12 +126,12 @@ Retrieving parameters for RF component - RFU54.
 Retrieving parameters for RF component - RFU207.
 Retrieving parameters for RF component - RFU49.
 Retrieving parameters for RF component - RFU209.
-Retrieving parameters for RF component - RFU48.
 Retrieving parameters for RF component - RFU211.
 Retrieving parameters for RF component - RFU52.
 Retrieving parameters for RF component - RFU213.
 Retrieving parameters for RF component - RFU6.
 Retrieving parameters for RF component - RFU215.
+Retrieving parameters for RF component - RFU48.
 Retrieving parameters for RF component - RFU3.
 Retrieving parameters for RF component - RFU5.
 Retrieving parameters for RF component - RFU92.
