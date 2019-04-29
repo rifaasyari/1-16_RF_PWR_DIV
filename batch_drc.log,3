@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
 (    Software Version : 17.2P028                                      )
-(    Date/Time        : Sun Apr 28 19:07:02 2019                      )
+(    Date/Time        : Sun Apr 28 20:28:42 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  5
+ ..... Total number of DRC errors  212
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
