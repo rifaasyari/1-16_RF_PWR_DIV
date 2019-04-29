@@ -1,0 +1,19 @@
+\t (00:00:05) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Mon Apr 29 10:13:56 2019
+\t (00:00:05)         Host=DARYA User=Harry.Lee Pid=8640 CPUs=8
+\t (00:00:05) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:17) Opening existing design...
+\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
+\d (00:00:17) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
+\t (00:00:17) Grids are drawn 1536.000, 1536.000 apart for enhanced viewability.
+\t (00:00:17) Grids are drawn 6.000, 6.000 apart for enhanced viewability.
+\i (00:00:17) trapsize 6687
+\i (00:00:17) trapsize 6918
+\t (00:00:17) Grids are drawn 6.000, 6.000 apart for enhanced viewability.
+\i (00:00:17) trapsize 7051
+\i (00:00:17) trapsize 6814
+\i (00:00:18) generaledit 
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Mon Apr 29 10:14:10 2019
