@@ -1,0 +1,81 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : 1-16_Power_Splitter.brd                       )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Apr 29 10:57:13 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+
+ Can't open parameter file ... using default values:
+     DEVICE-TYPE        GERBER6X00
+     G-CODES            NO
+     STATIONS-PER-WHEEL 24
+     FILM-SIZE          24000 16000
+     COORDINATES        ABSOLUTE
+     OUTPUT-UNITS       INCHES
+     FORMAT             5.3
+     ABORT-ON-ERROR     abort film & continue
+     SUPPRESS-LEAD-ZEROES     YES
+     SUPPRESS-TRAIL-ZEROES    NO
+     OPTIMIZE           YES
+     SUPPRESS-EQUAL     YES
+     SCALE              1.0
+
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00001                                  DARK 
+  CIRCLE     0.01965                                  DARK 
+  CIRCLE     0.02559                                  DARK 
+  RECTANGLE  0.01575     x 0.01968      90.000 NO     DARK 
+  RECTANGLE  0.01614     x 0.01299       0.000 NO     DARK 
+  RECTANGLE  0.01614     x 0.01299      90.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.03543      90.000 NO     DARK 
+  PAD SHAPE  CONNECTOR_PIN1             90.000 NO     DARK 
+  PAD SHAPE  CONNECTOR_PIN1            270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+
+ ARTWORK had warnings
