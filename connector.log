@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Connector.dra                                 )
 (    Software Version : 17.2S047                                      )
-(    Date/Time        : Fri Apr 26 15:08:48 2019                      )
+(    Date/Time        : Mon Apr 29 13:27:56 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,7 +13,7 @@ Create Symbol of type: PACKAGE
     Directory = C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master
     Name      = connector.psm
     User      = Harry.Lee
-    Machine   = DARYA
+    Machine   = DANIELA
 
 
 Create symbol started.

@@ -1,0 +1,30 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:/Users/Raymond/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd*
+G04 Film Name:    BOTTOM_PASTEMASK*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-P019*
+G04 Origin Date:  Tue Apr 30 12:10:21 2019*
+G04 *
+G04 Layer:  PACKAGE GEOMETRY/PASTEMASK_BOTTOM*
+G04 Layer:  BOARD GEOMETRY/DESIGN_OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Negative*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+G75*
+%LPD*%
+G75*
+G36*
+G01X-10000Y-10000D02*
+X640000D01*
+Y640000D01*
+X-10000D01*
+Y-10000D01*
+G37*
+M02*

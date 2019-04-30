@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Mon Apr 29 10:58:40 2019                      )
+(    Date/Time        : Tue Apr 30 12:10:21 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,29 +18,23 @@
 
 
 
-
- Can't open parameter file ... using default values:
-     DEVICE-TYPE        GERBER6X00
-     G-CODES            NO
-     STATIONS-PER-WHEEL 24
-     FILM-SIZE          24000 16000
-     COORDINATES        ABSOLUTE
-     OUTPUT-UNITS       INCHES
-     FORMAT             5.3
-     ABORT-ON-ERROR     abort film & continue
-     SUPPRESS-LEAD-ZEROES     YES
-     SUPPRESS-TRAIL-ZEROES    NO
-     OPTIMIZE           YES
-     SUPPRESS-EQUAL     YES
-     SCALE              1.0
-
-
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
 
 
 
 ================================================================
-     PROCESSING FILM < TOP >
-     TO FILE < C:/Users/Raymond/Documents/Projects/1-16_RF_PWR_DIV/Output/TOP.art > ...
+     PROCESSING FILM < TOP_PASTEMASK >
+     TO FILE < C:/Users/Raymond/Desktop/1-16_RF_PWR_DIV/Output/TOP_PASTEMASK.art > ...
 ================================================================
 
   FILM PARAMETERS :
@@ -50,32 +44,51 @@
   Rotate angle                        NONE
   Offset x:                           0.000
   Offset y:                           0.000
-  Plot negative                       NO
+  Plot negative                       YES
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.000 0.000)
+           ... ignored.
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
 
 
-  APERTURES USED:
+  APERTURES USED:  NONE
+     TOP_PASTEMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_PASTEMASK >
+     TO FILE < C:/Users/Raymond/Desktop/1-16_RF_PWR_DIV/Output/BOTTOM_PASTEMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
   ---------------------------------------------------------
-  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
-  ---------------------------------------------------------
-  CIRCLE     0.00001                                  DARK 
-  CIRCLE     0.01965                                  DARK 
-  CIRCLE     0.02559                                  DARK 
-  RECTANGLE  0.01575     x 0.01968      90.000 NO     DARK 
-  RECTANGLE  0.01614     x 0.01299       0.000 NO     DARK 
-  RECTANGLE  0.01614     x 0.01299      90.000 NO     DARK 
-  RECTANGLE  0.02362     x 0.03543       0.000 NO     DARK 
-  RECTANGLE  0.02362     x 0.03543      90.000 NO     DARK 
-  PAD SHAPE  CONNECTOR_PIN1             90.000 NO     DARK 
-  PAD SHAPE  CONNECTOR_PIN1            270.000 NO     DARK 
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
 
-     TOP created with warnings
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:  NONE
+     BOTTOM_PASTEMASK created with warnings
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
+        TOP_PASTEMASK created with warnings
+        BOTTOM_PASTEMASK created with warnings
 
  ARTWORK had warnings

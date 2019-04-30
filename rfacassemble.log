@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RF Asymetrical Clearance Assemble                                )
+(                                                                     )
+(    Drawing          : 1-16_Power_Splitter.brd                       )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Tue Apr 30 10:59:14 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Asymmetrical Clearance Assembly 1:
+
+
+	Asymmetrical Clearance Assembly Members:
+
+		pins:		648
+		vias:		203
+		Etch shapes:	230
+		Clearance shapes:16
+
+== == == == == == == == ==  == End of File == == == == == == == == == =

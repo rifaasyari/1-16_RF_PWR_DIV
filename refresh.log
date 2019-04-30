@@ -1,9 +1,9 @@
-Sun Apr 28 19:22:30 2019				Page     1
+Mon Apr 29 16:43:39 2019				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Sun Apr 28 19:22:30 2019
+	Mon Apr 29 16:43:39 2019
 
 ------ Module Refresh Messages ------
 
@@ -18,18 +18,18 @@ SUMMARY:    Updated 0 out of 0 modules
 (    Refresh Symbol                                                   )
 (                                                                     )
 (    Drawing          : 1-16_Power_Splitter.brd                       )
-(    Software Version : 17.2P019                                      )
-(    Date/Time        : Sun Apr 28 19:22:31 2019                      )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Mon Apr 29 16:43:40 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Sun Apr 28 19:22:31 2019				Page     1
+Mon Apr 29 16:43:40 2019				Page     1
 
 
 ------ Symbol Refresh Directives ------
 
-Input design  = 'C:/Users/zhouchang/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd'
+Input design  = 'C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV-master/1-16_Power_Splitter.brd'
 Output design = ''
 
 Update mechanical symbols              = 'NO'
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/ZHOUCH~1/AppData/Local/Temp/#Taaaaae13260.tmp'
+Symbol list file                       = 'C:/Users/Harry.Lee/AppData/Local/Temp/#Taaaaam06968.tmp'
 
 
 ------ Library Paths ------
@@ -50,22 +50,24 @@ PSMPATH =  .
            symbols 
            .. 
            ../symbols 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/local/pcb/symbols 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
 
 PADPATH =  . 
            symbols 
            .. 
            ../symbols 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
-           d:/raymond/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
 
 
 ------ Symbol Refresh Messages ------
 
-'R0603'  symbol refreshed successfully.
+
+'MLIN'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'MLIN' symbol unable to find in directory search path.
 
 
 ----- Symbol Update Summary ----
@@ -73,3 +75,6 @@ PADPATH =  .
 Updated symbols: 1 out 1
     Design updated.
 
+Completed refreshing symbols; some symbols may not have been updated due to warnings or errors.
+       0  errors detected.
+       1  warnings detected.

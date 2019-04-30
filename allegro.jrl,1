@@ -1,19 +1,261 @@
-\t (00:00:05) allegro 17.2 S047 Windows SPB 64-bit Edition
-\t (00:00:05)     Journal start - Mon Apr 29 10:13:56 2019
-\t (00:00:05)         Host=DARYA User=Harry.Lee Pid=8640 CPUs=8
-\t (00:00:05) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Harry.Lee\Desktop\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd
-\t (00:00:05) 
-   (00:00:05) Loading axlcore.cxt 
-\t (00:00:17) Opening existing design...
-\i (00:00:17) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged 1-16_Power_Splitter
-\d (00:00:17) Design opened: C:/Users/Harry.Lee/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
-\t (00:00:17) Grids are drawn 1536.000, 1536.000 apart for enhanced viewability.
-\t (00:00:17) Grids are drawn 6.000, 6.000 apart for enhanced viewability.
-\i (00:00:17) trapsize 6687
-\i (00:00:17) trapsize 6918
-\t (00:00:17) Grids are drawn 6.000, 6.000 apart for enhanced viewability.
-\i (00:00:17) trapsize 7051
-\i (00:00:17) trapsize 6814
-\i (00:00:18) generaledit 
-\i (00:00:19) exit 
-\t (00:00:19)     Journal end - Mon Apr 29 10:14:10 2019
+\t (00:00:07) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Tue Apr 30 11:57:46 2019
+\t (00:00:07)         Host=DESKTOP-0F6HLN1 User=Raymond Pid=2428 CPUs=4
+\t (00:00:07) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\Raymond\Desktop\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd
+\t (00:00:07) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\d (00:00:10) Design opened: C:/Users/Raymond/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
+\t (00:00:10) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:00:10) trapsize 28496
+\i (00:00:10) trapsize 28985
+\t (00:00:10) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:00:10) trapsize 32673
+\i (00:00:10) trapsize 33112
+\i (00:00:11) generaledit 
+\i (00:00:13) color192 
+\i (00:00:14) generaledit 
+\i (00:00:15) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:00:19) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:22) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
+\i (00:00:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Design_Outline PkgGeo
+\i (00:00:23) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:00:25) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:00:25) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:00:31) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:00:35) QtSignal CVDLayerTable VertHeader clickedCheckBox 29
+\i (00:00:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top PkgGeo
+\i (00:00:38) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:38) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:39) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:00:40) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:00:45) colorview create 
+\i (00:00:46) generaledit 
+\i (00:00:57) setwindow form.colorview_create
+\i (00:00:57) FORM colorview_create colorview_name 'top overlay' 
+\i (00:00:57) FORM colorview_create save  
+\i (00:00:58) FORM colorview_create done  
+\i (00:01:02) setwindow pcb
+\i (00:01:02) artwork 
+\i (00:01:04) setwindow form.film_control
+\i (00:01:04) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:01:07) FORM film_control filmtree popup 'Match Display' TOP_OVERLAY 
+\i (00:01:09) FORM film_control filmtree popup 'Display for Visibility' TOP_OVERLAY 
+\i (00:01:20) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
+\i (00:01:29) FORM film_control create  
+\t (00:01:29) Checking db records
+\t (00:01:29)     checking for orphans...
+\t (00:01:29)     Checked  40 percent
+\t (00:01:29)     Checked  80 percent
+\t (00:01:29)     Checked 100 percent
+\w (00:01:29) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:01:29) Done dbdoctor.
+\t (00:01:29) Starting Create artwork films...
+\w (00:01:30) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:01:31) Artwork generated with warnings.
+\i (00:01:33) setwindow text
+\i (00:01:33) close 
+\i (00:01:57) setwindow form.film_control
+\i (00:01:57) FORM film_control filmtree popup 'Add Manual' TOP_SOLDERMASK 
+\i (00:02:00) fillin "tol"
+\i (00:02:05) setwindow form.scl_browser
+\i (00:02:05) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
+\i (00:02:05) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
+\i (00:02:06) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:02:06) FORM scl_browser treelist  SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:02:10) FORM scl_browser treelist  'BOARD GEOMETRY' 
+\i (00:02:14) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'COMPONENT VALUE' 
+\i (00:02:14) FORM scl_browser treelist  SILKSCREEN_TOP 'COMPONENT VALUE' 
+\i (00:02:24) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
+\i (00:02:24) FORM scl_browser treelist  SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
+\i (00:02:28) FORM scl_browser done  
+\i (00:02:31) setwindow form.film_control
+\i (00:02:31) FORM film_control filmtree  tol 
+\i (00:02:32) FORM film_control filmtree 'MULTISEL YES' tol 
+\i (00:02:33) FORM film_control create  
+\t (00:02:33) Starting Create artwork films...
+\w (00:02:34) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:02:35) Artwork generated with warnings.
+\t (00:02:55) last pick:  12879.475 4687.497
+\w (00:02:55) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:03:01) setwindow text
+\i (00:03:01) close 
+\i (00:03:09) setwindow form.film_control
+\i (00:03:09) FORM film_control filmtree  TOP_PASTEMASK 
+\i (00:03:10) FORM film_control filmtree  tol 
+\i (00:03:18) FORM film_control filmtree popup Cut tol 
+\i (00:03:19) FORM film_control filmtree 'MULTISEL NO' TOP_OVERLAY 
+\i (00:03:19) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:06:26) FORM film_control cancel  
+\i (00:06:26) setwindow pcb
+\i (00:06:26) generaledit 
+\i (00:06:30) drag_start grid -279.345 6680.857
+\i (00:06:30) drag_stop 6932.510 -113.783
+\i (00:06:49) prmed 
+\i (00:06:51) setwindow form.prmedit
+\i (00:06:51) FORM prmedit text  
+\i (00:07:02) FORM prmedit text_setup_button  
+\i (00:07:09) setwindow form.textblock
+\i (00:07:09) FORM textblock 1 photoplot_width 5.000 
+\i (00:07:12) FORM textblock 2 photoplot_width 5.000 
+\i (00:07:17) FORM textblock 3 photoplot_width 5.000 
+\i (00:07:19) FORM textblock 4 photoplot_width 5.000 
+\i (00:07:22) FORM textblock 5 photoplot_width 5.000 
+\i (00:07:24) FORM textblock 6 photoplot_width 5.000 
+\i (00:07:26) FORM textblock 7 photoplot_width 5.000 
+\i (00:07:26) FORM textblock done  
+\i (00:07:28) setwindow form.prmedit
+\i (00:07:28) FORM prmedit apply  
+\i (00:07:30) FORM prmedit done  
+\i (00:07:31) setwindow pcb
+\i (00:07:31) generaledit 
+\i (00:07:34) artwork 
+\i (00:07:36) setwindow form.film_control
+\i (00:07:36) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
+\i (00:07:36) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:07:37) FORM film_control ok  
+\i (00:07:37) setwindow pcb
+\i (00:07:37) generaledit 
+\i (00:07:40) artwork 
+\i (00:07:42) setwindow form.film_control
+\i (00:07:42) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
+\i (00:07:42) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:07:43) FORM film_control create  
+\t (00:07:43) Checking db records
+\t (00:07:43)     checking for orphans...
+\t (00:07:43)     Checked  39 percent
+\t (00:07:43)     Checked  79 percent
+\t (00:07:43)     Checked 100 percent
+\w (00:07:43) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:07:43) Done dbdoctor.
+\t (00:07:43) Starting Create artwork films...
+\w (00:07:44) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:07:45) Artwork generated with warnings.
+\i (00:08:15) setwindow pcb
+\i (00:08:15) pick grid 2396.128 2442.485
+\t (00:08:15) last pick:  2396.130 2442.490
+\i (00:08:17) setwindow text
+\i (00:08:17) close 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) pick grid 2654.403 3588.170
+\t (00:08:26) last pick:  2654.400 3588.170
+\i (00:08:27) zoom in 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom in 2826.587 2680.893
+\t (00:08:27) Grids are drawn 20.480, 20.480 apart for enhanced viewability.
+\i (00:08:27) trapsize 16556
+\i (00:08:27) zoom in 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom in 2237.189 2680.894
+\t (00:08:27) Grids are drawn 10.240, 10.240 apart for enhanced viewability.
+\i (00:08:27) trapsize 8278
+\i (00:08:57) setwindow form.film_control
+\i (00:08:57) FORM film_control undefined_line_width 6 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) prmed 
+\i (00:09:01) setwindow form.prmedit
+\i (00:09:01) FORM prmedit text_setup_button  
+\i (00:09:04) setwindow form.textblock
+\i (00:09:04) FORM textblock 1 photoplot_width 0.000 
+\i (00:09:09) FORM textblock 2 photoplot_width 0.000 
+\i (00:09:13) FORM textblock 3 photoplot_width 0.000 
+\i (00:09:16) FORM textblock 4 photoplot_width 0.000 
+\i (00:09:18) FORM textblock 5 photoplot_width 0.000 
+\i (00:09:20) FORM textblock 6 photoplot_width 0.000 
+\i (00:09:22) FORM textblock 7 photoplot_width 0.000 
+\i (00:09:22) FORM textblock done  
+\i (00:09:24) setwindow form.prmedit
+\i (00:09:24) FORM prmedit apply  
+\i (00:09:25) FORM prmedit done  
+\i (00:09:25) setwindow pcb
+\i (00:09:25) generaledit 
+\i (00:09:29) artwork 
+\i (00:09:35) setwindow form.film_control
+\i (00:09:35) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
+\i (00:09:35) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:09:40) FORM film_control undefined_line_width 5 
+\i (00:09:40) FORM film_control create  
+\t (00:09:40) Checking db records
+\t (00:09:40)     checking for orphans...
+\t (00:09:40)     Checked  39 percent
+\t (00:09:40)     Checked  79 percent
+\t (00:09:40)     Checked 100 percent
+\w (00:09:40) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:09:40) Done dbdoctor.
+\t (00:09:40) Starting Create artwork films...
+\w (00:09:40) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:09:41) Artwork generated with warnings.
+\i (00:09:44) setwindow text
+\i (00:09:44) close 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) pick grid 2200.765 3169.300
+\t (00:10:19) last pick:  2200.770 3169.300
+\i (00:10:26) setwindow form.film_control
+\i (00:10:26) FORM film_control filmtree 'MULTISEL YES' BOTTOM_L 
+\i (00:10:26) FORM film_control filmtree  BOTTOM_L 
+\i (00:10:26) FORM film_control filmtree 'MULTISEL YES' BOTTOM_OVERLAY 
+\i (00:10:26) FORM film_control filmtree  BOTTOM_OVERLAY 
+\i (00:10:29) FORM film_control filmtree 'MULTISEL YES' BOTTOM_SOLDERMASK 
+\i (00:10:29) FORM film_control filmtree  BOTTOM_SOLDERMASK 
+\i (00:10:30) FORM film_control filmtree 'MULTISEL YES' TOP_L 
+\i (00:10:30) FORM film_control filmtree  TOP_L 
+\i (00:10:32) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERMASK 
+\i (00:10:32) FORM film_control filmtree  TOP_SOLDERMASK 
+\i (00:10:33) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERPAD 
+\i (00:10:33) FORM film_control filmtree  TOP_SOLDERPAD 
+\i (00:10:34) FORM film_control filmtree  tol 
+\i (00:10:38) FORM film_control filmtree popup Cut tol 
+\i (00:10:48) FORM film_control undefined_line_width 5 
+\i (00:10:48) FORM film_control positive YES 
+\i (00:10:51) FORM film_control create  
+\t (00:10:51) Starting Create artwork films...
+\w (00:10:52) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:10:53) Artwork generated with warnings.
+\i (00:10:55) setwindow text
+\i (00:10:55) close 
+\i (00:10:56) setwindow form.film_control
+\i (00:10:56) FORM film_control filmtree 'MULTISEL NO' BOTTOM_L 
+\i (00:10:56) FORM film_control filmtree  BOTTOM_L 
+\i (00:10:56) FORM film_control filmtree 'MULTISEL NO' BOTTOM_OVERLAY 
+\i (00:10:56) FORM film_control filmtree  BOTTOM_OVERLAY 
+\i (00:10:57) FORM film_control filmtree 'MULTISEL YES' BOTTOM_PASTEMASK 
+\i (00:10:57) FORM film_control filmtree  BOTTOM_PASTEMASK 
+\i (00:10:57) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:10:57) FORM film_control filmtree  TOP 
+\i (00:10:58) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SOLDERMASK 
+\i (00:10:58) FORM film_control filmtree  BOTTOM_SOLDERMASK 
+\i (00:10:59) FORM film_control filmtree 'MULTISEL NO' TOP 
+\i (00:10:59) FORM film_control filmtree  TOP 
+\i (00:10:59) FORM film_control filmtree 'MULTISEL NO' TOP_L 
+\i (00:10:59) FORM film_control filmtree  TOP_L 
+\i (00:11:00) FORM film_control filmtree 'MULTISEL NO' TOP_OVERLAY 
+\i (00:11:00) FORM film_control filmtree  TOP_OVERLAY 
+\i (00:11:00) FORM film_control filmtree 'MULTISEL YES' TOP_PASTEMASK 
+\i (00:11:00) FORM film_control filmtree  TOP_PASTEMASK 
+\i (00:11:01) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDERMASK 
+\i (00:11:01) FORM film_control filmtree  TOP_SOLDERMASK 
+\i (00:11:01) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDERPAD 
+\i (00:11:01) FORM film_control filmtree  TOP_SOLDERPAD 
+\i (00:11:02) FORM film_control negative YES 
+\i (00:11:06) FORM film_control create  
+\t (00:11:06) Starting Create artwork films...
+\w (00:11:07) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:11:08) Artwork generated with warnings.
+\i (00:11:10) setwindow text
+\i (00:11:10) close 
+\i (00:11:11) setwindow form.film_control
+\i (00:11:11) FORM film_control filmtree 'MULTISEL NO' TOP_PASTEMASK 
+\i (00:11:11) FORM film_control filmtree  TOP_PASTEMASK 
+\i (00:11:13) FORM film_control filmtree 'MULTISEL NO' BOTTOM_PASTEMASK 
+\i (00:11:13) FORM film_control filmtree  BOTTOM_PASTEMASK 
+\i (00:11:14) FORM film_control cancel  
+\i (00:11:14) setwindow pcb
+\i (00:11:14) generaledit 
+\i (00:11:14) exit 
+\e (00:11:14) Do you want to save the changes you made to 1-16_Power_Splitter.brd?
+\i (00:11:17) fillin no 
+   (00:11:17) Loading signal.cxt 
+\t (00:11:17)     Journal end - Tue Apr 30 12:08:56 2019
