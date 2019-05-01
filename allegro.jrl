@@ -1,106 +1,16 @@
 \t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Tue Apr 30 12:09:18 2019
-\t (00:00:04)         Host=DESKTOP-0F6HLN1 User=Raymond Pid=7328 CPUs=4
-\t (00:00:04) CmdLine= c:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\Raymond\Desktop\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd
+\t (00:00:04)     Journal start - Tue Apr 30 22:38:22 2019
+\t (00:00:04)         Host=DESKTOP-ODMHQI6 User=zhouchang Pid=15388 CPUs=4
+\t (00:00:04) CmdLine= d:\raymond\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe C:\Users\zhouchang\Desktop\1-16_RF_PWR_DIV\1-16_Power_Splitter.brd
 \t (00:00:04) 
    (00:00:04) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\d (00:00:07) Design opened: C:/Users/Raymond/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
-\t (00:00:07) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:00:07) trapsize 28496
-\i (00:00:07) trapsize 28985
-\t (00:00:07) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
-\i (00:00:07) trapsize 32673
-\i (00:00:08) trapsize 33112
-\i (00:00:09) generaledit 
-\i (00:00:30) artwork 
-\i (00:00:35) setwindow form.film_control
-\i (00:00:35) FORM film_control undefined_line_width 5 
-\i (00:00:35) FORM film_control filmtree 'MULTISEL YES' BOTTOM_L 
-\i (00:00:35) FORM film_control filmtree  BOTTOM_L 
-\i (00:00:35) FORM film_control filmtree 'MULTISEL YES' BOTTOM_PASTEMASK 
-\i (00:00:35) FORM film_control filmtree  BOTTOM_PASTEMASK 
-\i (00:00:36) FORM film_control filmtree 'MULTISEL YES' BOTTOM_OVERLAY 
-\i (00:00:36) FORM film_control filmtree  BOTTOM_OVERLAY 
-\i (00:00:36) FORM film_control filmtree 'MULTISEL NO' BOTTOM_PASTEMASK 
-\i (00:00:36) FORM film_control filmtree  BOTTOM_PASTEMASK 
-\i (00:00:37) FORM film_control filmtree 'MULTISEL YES' BOTTOM_SOLDERMASK 
-\i (00:00:37) FORM film_control filmtree  BOTTOM_SOLDERMASK 
-\i (00:00:37) FORM film_control filmtree 'MULTISEL YES' TOP_L 
-\i (00:00:37) FORM film_control filmtree  TOP_L 
-\i (00:00:38) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
-\i (00:00:38) FORM film_control filmtree  TOP_OVERLAY 
-\i (00:00:39) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERMASK 
-\i (00:00:39) FORM film_control filmtree  TOP_SOLDERMASK 
-\i (00:00:39) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERPAD 
-\i (00:00:39) FORM film_control filmtree  TOP_SOLDERPAD 
-\i (00:00:40) FORM film_control positive YES 
-\i (00:00:45) FORM film_control undefined_line_width 5 
-\i (00:00:45) FORM film_control ok  
-\i (00:00:46) setwindow pcb
-\i (00:00:46) generaledit 
-\i (00:00:48) artwork 
-\i (00:00:52) setwindow form.film_control
-\i (00:00:52) FORM film_control filmtree  BOTTOM_L 
-\i (00:00:52) FORM film_control filmtree 'MULTISEL YES' BOTTOM_L 
-\i (00:00:53) FORM film_control filmtree 'MULTISEL YES' BOTTOM_OVERLAY 
-\i (00:00:53) FORM film_control filmtree  BOTTOM_OVERLAY 
-\i (00:00:53) FORM film_control filmtree 'MULTISEL YES' BOTTOM_SOLDERMASK 
-\i (00:00:53) FORM film_control filmtree  BOTTOM_SOLDERMASK 
-\i (00:00:54) FORM film_control filmtree 'MULTISEL YES' TOP_L 
-\i (00:00:54) FORM film_control filmtree  TOP_L 
-\i (00:00:54) FORM film_control filmtree 'MULTISEL YES' TOP_OVERLAY 
-\i (00:00:54) FORM film_control filmtree  TOP_OVERLAY 
-\i (00:00:55) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERMASK 
-\i (00:00:55) FORM film_control filmtree  TOP_SOLDERMASK 
-\i (00:00:55) FORM film_control filmtree 'MULTISEL YES' TOP_SOLDERPAD 
-\i (00:00:55) FORM film_control filmtree  TOP_SOLDERPAD 
-\i (00:00:56) FORM film_control create  
-\t (00:00:56) Checking db records
-\t (00:00:56)     checking for orphans...
-\t (00:00:56)     Checked  40 percent
-\t (00:00:56)     Checked  80 percent
-\t (00:00:56)     Checked 100 percent
-\w (00:00:56) Run batch DRC to correctly regenerate DRC errs.
-
-\t (00:00:56) Done dbdoctor.
-\t (00:00:56) Starting Create artwork films...
-\w (00:00:57) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:00:58) Artwork generated with warnings.
-\i (00:00:59) setwindow text
-\i (00:00:59) close 
-\i (00:01:01) setwindow form.film_control
-\i (00:01:01) FORM film_control filmtree 'MULTISEL NO' BOTTOM_L 
-\i (00:01:01) FORM film_control filmtree  BOTTOM_L 
-\i (00:01:01) FORM film_control filmtree 'MULTISEL NO' BOTTOM_OVERLAY 
-\i (00:01:01) FORM film_control filmtree  BOTTOM_OVERLAY 
-\i (00:01:01) FORM film_control filmtree 'MULTISEL YES' BOTTOM_PASTEMASK 
-\i (00:01:01) FORM film_control filmtree  BOTTOM_PASTEMASK 
-\i (00:01:02) FORM film_control filmtree 'MULTISEL NO' BOTTOM_SOLDERMASK 
-\i (00:01:02) FORM film_control filmtree  BOTTOM_SOLDERMASK 
-\i (00:01:02) FORM film_control filmtree 'MULTISEL NO' TOP_L 
-\i (00:01:02) FORM film_control filmtree  TOP_L 
-\i (00:01:03) FORM film_control filmtree 'MULTISEL NO' TOP_OVERLAY 
-\i (00:01:03) FORM film_control filmtree  TOP_OVERLAY 
-\i (00:01:03) FORM film_control filmtree 'MULTISEL YES' TOP_PASTEMASK 
-\i (00:01:03) FORM film_control filmtree  TOP_PASTEMASK 
-\i (00:01:04) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDERMASK 
-\i (00:01:04) FORM film_control filmtree  TOP_SOLDERMASK 
-\i (00:01:04) FORM film_control filmtree 'MULTISEL NO' TOP_SOLDERPAD 
-\i (00:01:04) FORM film_control filmtree  TOP_SOLDERPAD 
-\i (00:01:06) FORM film_control negative YES 
-\i (00:01:06) FORM film_control create  
-\t (00:01:06) Starting Create artwork films...
-\w (00:01:07) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:01:08) Artwork generated with warnings.
-\i (00:01:16) setwindow text
-\i (00:01:16) close 
-\i (00:01:17) setwindow form.film_control
-\i (00:01:17) FORM film_control cancel  
-\i (00:01:17) setwindow pcb
-\i (00:01:17) generaledit 
-\i (00:01:17) exit 
-\e (00:01:17) Do you want to save the changes you made to 1-16_Power_Splitter.brd?
-\i (00:01:18) fillin no 
-   (00:01:18) Loading signal.cxt 
-\t (00:01:18)     Journal end - Tue Apr 30 12:10:33 2019
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/zhouchang/Desktop/1-16_RF_PWR_DIV/1-16_Power_Splitter.brd
+\t (00:00:06) Grids are drawn 40.960, 40.960 apart for enhanced viewability.
+\i (00:00:06) trapsize 37662
+\i (00:00:06) trapsize 38521
+\t (00:00:06) Grids are drawn 81.920, 81.920 apart for enhanced viewability.
+\i (00:00:06) trapsize 52146
+\i (00:00:07) generaledit 
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Tue Apr 30 22:38:27 2019
